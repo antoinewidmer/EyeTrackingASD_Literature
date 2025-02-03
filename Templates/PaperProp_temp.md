@@ -1,0 +1,27 @@
+---
+title: 
+authors: 
+published: 
+journal: 
+Paper_type: 
+tags: 
+DOI: 
+category:
+  main: 
+  sub: 
+device:
+  Type: 
+  sampling_rate: 
+Participants:
+  Total: 
+  ASD_boys: 
+  ASD_girls: 
+  TD_boys: 
+  TD_girls: 
+cited_papers: 
+citing_papers: 
+other_connected_paper: 
+read_on: 
+code_repo: 
+dataset:
+---
