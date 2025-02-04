@@ -1,8 +1,9 @@
 ## Articles on Eye-Tracking in ASD Detection
 
 ```dataview 
-TABLE 
-title,
+TABLE file.name AS "Note", 
+EyeMetrics AS "EyeMetrics",
+title, 
 Paper_type,
 device.Type as EyeTracking,
 device.sampling_rate as rate

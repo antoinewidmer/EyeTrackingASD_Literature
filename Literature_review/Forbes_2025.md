@@ -6,7 +6,7 @@ journal: Journal of Autism and Developmental Disorders
 Paper_type: Research
 tags:
   - ASD
-  - EyeTracking/Oculometry
+  - EyeTracking
 DOI: https://doi.org/10.1007/s10803-024-06718-3
 category:
   main: 
@@ -25,7 +25,17 @@ citing_papers:
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+EyeMetrics:
+  - EyeTracking/Saccades/Amplitude
+  - EyeTracking/Saccades/FEP
+  - EyeTracking/Saccades/PeakVelocity
+  - Oculometry/AntiSaccade/DirectionalError
+  - Oculometry/AntiSaccade/Anticipatory
+  - Oculometry/SmoothPursuit/Gain
+  - Oculometry/SmoothPursuit/CatchUpSaccade
+  - Oculumetry/StepRampPursuit/OpenLoopGain
+  - Oculumetry/StepRampPursuit/CatchUpSaccade
 ---
 
 
@@ -160,19 +170,19 @@ Each child’s **head was stabilized** for accurate tracking.
 ### Data Analysis
 #### Eye-Tracking Metrics in ASD Study
 
-#EyeTracking/Oculometry/Saccade/SaccadeGain #EyeTracking/Oculometry/Saccade/PeakSaccadeVelocity #EyeTracking/Oculometry/Saccade/AnticipatorySaccade  
+| **Category**                  | **Metric**                        | **Definition**                                                                     | Tag                                          |
+| ----------------------------- | --------------------------------- | ---------------------------------------------------------------------------------- | ------------------------------------------- |
+| **Saccade-Based Metrics**     | **Saccade Gain**                  | Accuracy of eye movement amplitude relative to target displacement.                | #EyeTracking/Saccades/Amplitude                |
+|                               | **Peak Saccade Velocity**         | Maximum speed of a saccade.                                                        | #EyeTracking/Saccades/PeakVelocity               |
+|                               | **Final Eye Position (FEP)**      | Accuracy of eye position after movement.                                           | #EyeTracking/Saccades/FEP                        |
+| **Anti-Saccade Metrics**      | **Directional Errors**            | % of incorrect saccades (looking at the target instead of the opposite direction). | #Oculometry/AntiSaccade/DirectionalError       |
+|                               | **Anticipatory Saccades**         | % of saccades made before the target appears.                                      | #Oculometry/AntiSaccade/Anticipatory                |
+| **Smooth Pursuit Metrics**    | **Smooth Pursuit Gain**           | Accuracy of eye velocity matching the moving target.                               | #Oculometry/SmoothPursuit/Gain                       |
+|                               | **Catch-Up Saccades**             | Number of corrective saccades needed to keep up with the target.                   | #Oculometry/SmoothPursuit/CatchUpSaccade       |
+| **Step-Ramp Pursuit Metrics** | **Open-Loop Gain**                | Accuracy of the initial tracking response before feedback correction.              | #Oculumetry/StepRampPursuit/OpenLoopGain        |
+|                               | **Catch-Up Saccades (Step-Ramp)** | Quick saccades made to correct tracking errors when a target changes speed         | #Oculumetry/StepRampPursuit/CatchUpSaccade    |
 
-|**Category**|**Metric**|**Definition**|
-|---|---|---|
-|**Saccade-Based Metrics**|**Saccade Gain**|Accuracy of eye movement amplitude relative to target displacement.|
-||**Peak Saccade Velocity**|Maximum speed of a saccade.|
-||**Final Eye Position (FEP)**|Accuracy of eye position after movement.|
-|**Anti-Saccade Metrics**|**Directional Errors**|% of incorrect saccades (looking at the target instead of the opposite direction).|
-||**Anticipatory Saccades**|% of saccades made before the target appears.|
-|**Smooth Pursuit Metrics**|**Smooth Pursuit Gain**|Accuracy of eye velocity matching the moving target.|
-||**Catch-Up Saccades**|Number of corrective saccades needed to keep up with the target.|
-|**Step-Ramp Pursuit Metrics**|**Open-Loop Gain**|Accuracy of the initial tracking response before feedback correction.|
-||**Catch-Up Saccades (Step-Ramp)**|Quick saccades made to correct tracking errors when a target changes speed.|
+
 ## 📊 Results & Key Findings 
 
 ### (A) Visually Guided Saccade (VGS) Task

@@ -27,7 +27,14 @@ citing_papers:
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+EyeMetrics:
+  - EyeTracking/Fixation/Duration
+  - EyeTracking/Saccades/Latency
+  - EyeTracking/Fixation/FirstFixation/Latency
+  - EyeTracking/Fixation/FirstFixation/Duration
+  - EyeTracking/Fixation/Duration
+  - EyeTracking/Saccades/AverageTime
 ---
 
 
@@ -98,12 +105,15 @@ The study utilized **statistical tests** to analyze **task performance and eye-t
 
 ##### Eye-Tracking Features Extracted:
 
-1. **Total Fixation Duration (TFD):** Total time fixating on a target.
-2. **Saccade Duration (SD):** Time taken to shift gaze between elements.
-3. **Time to First Fixation (TTFF):** Time before first looking at a target.
-4. **First Fixation Duration (FFD):** Time spent during the first gaze on an object.
-5. **Average Fixation Time (AFT).**
-6. **Average Saccade Time (AST).**
+
+| Eye Movement Metric                                                               | Corresponding Tag                        |
+| --------------------------------------------------------------------------------- | ---------------------------------------- |
+| **Total Fixation Duration (TFD):** Total time fixating on a target.               | #EyeTracking/Fixation/Duration          |
+| **Saccade Duration (SD):** Time taken to shift gaze between elements.             | #EyeTracking/Saccades/Latency      |
+| **Time to First Fixation (TTFF):** Time before first looking at a target.         | #EyeTracking/Fixation/FirstFixation/Latency              |
+| **First Fixation Duration (FFD):** Time spent during the first gaze on an object. | #EyeTracking/Fixation/FirstFixation/Duration    |
+| **Average Fixation Time (AFT).**                                                  | #EyeTracking/Fixation/Duration               |
+| **Average Saccade Time (AST).**                                                   | #EyeTracking/Saccades/AverageTime              |
 
 ---
 
@@ -175,14 +185,14 @@ The study utilized **statistical tests** to analyze **task performance and eye-t
 ## 📊 Results & Key Findings 
 
 
-1. **ASD children exhibit atypical eye-tracking behaviors**:
+7. **ASD children exhibit atypical eye-tracking behaviors**:
     
     - **Reduced fixation on positive emotions** (p = 0.047).
     - **Longer saccade durations when reading social cues** (p = 0.018).
     - **More fixation on text-based social captions** (p = 0.018).
-2. **Statistical tests confirmed significant differences** in gaze behavior between ASD and TD children.
+8. **Statistical tests confirmed significant differences** in gaze behavior between ASD and TD children.
     
-3. **Correlation analysis showed eye-tracking features can predict cognitive ability**, supporting eye-tracking as a diagnostic tool.
+9. **Correlation analysis showed eye-tracking features can predict cognitive ability**, supporting eye-tracking as a diagnostic tool.
 
 
 - ## 🔍 Related Work 

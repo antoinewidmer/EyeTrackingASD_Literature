@@ -6,9 +6,6 @@ journal:
 Paper_type: Research
 tags:
   - ASD
-  - EyeTracking/Oculometry
-  - EyeTracking/Pupillometry
-  - EyeTracking/Gaze
 DOI: https://doi.org/10.31234/osf.io/b3ga6
 category:
   main: 
@@ -70,14 +67,12 @@ dataset:
 - **Eye-Tracking & Pupillometry Data Extraction**
 
 1. **Oculometric Parameters:**
-  #EyeTracking/Oculometry/FixationDuration #EyeTracking/Oculometry/NumberOfFixation #EyeTracking/Oculometry/FirstFixation/Latency #EyeTracking/Oculometry/TotalTimeTracked 
     - **Fixation duration:** Time spent looking at faces, eyes, mouth, and objects.
     - **Number of fixations:** How often a child fixates on different stimuli.
     - **Latency of first fixation:** Time taken to first look at a region.
     - **Total time tracked (TTT):** How long a child remained engaged.
     
 2. **Pupillometric Parameters:**
-    #EyeTracking/Pupillometry/PupilLightReflex #EyeTracking/Pupillometry/PupilDiameterVariation #EyeTracking/Pupillometry/PupilBaseline   
     - **Pupil Light Reflex (PLR):** Pupil constriction/dilation in response to light.
     - **Pupil diameter variation (PDV):** Change in pupil size while viewing faces vs. objects.
     - **Pupil baseline (PBas):** Resting pupil size before stimulus presentation.

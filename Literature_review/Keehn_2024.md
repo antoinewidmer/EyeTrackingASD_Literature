@@ -55,14 +55,17 @@ dataset:
 
 Children completed **five eye-tracking tasks** to evaluate **attentional preference, gaze disengagement, pupil response, and oculomotor function**.
 
-|**Task**|**Purpose**|**Key Eye-Tracking Measures**|
-|---|---|---|
-|**1. GeoPref Test (Social vs. Nonsocial Preference)**|Assess preference for faces vs. objects.|% Looking Time to Social vs. Nonsocial Video.|
-|**2. Gap-Overlap Task**|Measure attentional disengagement.|Overlap-Gap Response Time (RT), No-Shift % (Failure to disengage).|
-|**3. Pupillary Light Reflex (PLR) Test**|Assess pupil dilation response to light stimuli.|PLR Latency (ms), PLR Amplitude (%).|
-|**4. Resting State Fixation**|Measure baseline gaze behavior.|Fixation Duration (ms), Saccade Amplitude.|
-|**5. Passive Visual Exploration**|Assess natural gaze exploration of a scene.|Fixation Duration (ms), Saccade Duration.|
-
+| **Task**                                              | **Purpose**                                      | **Key Eye-Tracking Measure**                 | Tag |
+| ----------------------------------------------------- | ------------------------------------------------ | -------------------------------------------- | --- |
+| **1. GeoPref Test (Social vs. Nonsocial Preference)** | Assess preference for faces vs. objects.         | % Looking Time to Social vs. Nonsocial Video |     |
+| **2. Gap-Overlap Task**                               | Measure attentional disengagement.               | Overlap-Gap Response Time (RT)               |     |
+|                                                       |                                                  | No-Shift % (Failure to disengage)            |     |
+| **3. Pupillary Light Reflex (PLR) Test**              | Assess pupil dilation response to light stimuli. | PLR Latency (ms)                             |     |
+|                                                       |                                                  | PLR Amplitude (%)                            |     |
+| **4. Resting State Fixation**                         | Measure baseline gaze behavior.                  | Fixation Duration (ms)                       |     |
+|                                                       |                                                  | Saccade Amplitude                            |     |
+| **5. Passive Visual Exploration**                     | Assess natural gaze exploration of a scene.      | Fixation Duration (ms)                       |     |
+|                                                       |                                                  | Saccade Duration                             |     |
 
 ### System setup and hardware
 

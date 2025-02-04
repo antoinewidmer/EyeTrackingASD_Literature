@@ -6,8 +6,6 @@ journal:
 Paper_type: Research
 tags:
   - ASD
-  - EyeTracking/Pupillometry
-  - EyeTracking/Oculometry
   - EyeTracking/Gaze
 DOI: https://doi.org/10.31234/osf.io/vfte9
 category:

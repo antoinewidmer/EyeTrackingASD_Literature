@@ -5,10 +5,10 @@ published: 2025
 journal: IEEE Journal of Biomedical and Health Informatics
 Paper_type: Research
 tags:
-  - EyeTracking/Gaze
   - ASD
   - Biomarker
   - SeriousGame
+  - EyeTracking
 DOI: https://doi.org/10.1109/JBHI.2025.3531421
 category:
   main: 
@@ -27,7 +27,12 @@ citing_papers:
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+EyeMetrics:
+  - Pupillometry/PLR/Latency
+  - EyeTracking/Fixation/FirstFixation/Latency
+  - EyeTracking/Fixation/Duration
+  - EyeTracking/SocialAttention/Face
 ---
 
 
@@ -125,14 +130,16 @@ In addition to tracking the users’ gaze, the study records and analyzes their 
 
 #### Key Eye-tracking Features Collected Across Tasks
 
-|**Task**|**Eye-tracking Features**|
-|---|---|
-|**Pairing and Categorization**|Response latency (RL), time to first fixation (TTFF), total fixation duration (TFD) on prompt and options|
-|**Emotion Recognition**|Mean fixation duration (MFD), fixation proportion on correct emotion (FPCE), fixation proportion on wrong emotion (FPWE)|
-|**Social Interaction**|Total fixation duration (TFD) on facial regions (face, eyes, mouth, hand)|
+| **Task**                       | **Eye-tracking Feature**                                                  | Tag                                         |
+| ------------------------------ | ------------------------------------------------------------------------- | ------------------------------------------- |
+| **Pairing and Categorization** | Response latency (RL)                                                     | #Pupillometry/PLR/Latency                   |
+|                                | Time to first fixation (TTFF)                                             | #EyeTracking/Fixation/FirstFixation/Latency |
+|                                | Total fixation duration (TFD) on prompt and options                       | #EyeTracking/Fixation/Duration              |
+| **Emotion Recognition**        | Mean fixation duration (MFD)                                              |                                             |
+|                                | Fixation proportion on correct emotion (FPCE)                             |                                             |
+|                                | Fixation proportion on wrong emotion (FPWE)                               |                                             |
+| **Social Interaction**         | Total fixation duration (TFD) on facial regions (face, eyes, mouth, hand) | #EyeTracking/SocialAttention/Face           |
 
-
-- 
 - ## 📊 Results & Key Findings 
 
 ### Key Findings:

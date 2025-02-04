@@ -5,7 +5,6 @@ published: 2021
 journal: 
 Paper_type: systematic_review
 tags:
-  - EyeTracking/Pupillometry
   - systematic_review
   - ASD
 DOI: https://doi.org/10.1016/j.neubiorev.2020.09.032

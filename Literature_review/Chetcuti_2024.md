@@ -86,8 +86,6 @@ Each infant viewed a **standardized sequence of animations** featuring **social 
 
 The study measured **four key eye-tracking metrics**:
 
-#EyeTracking/Oculometry/FixationDuration #EyeTracking/Oculometry/FirstFixation/Area  #EyeTracking/Oculometry/DwellTime #EyeTracking/Oculometry/AlternationRate 
-
 |**Category**|**Metric**|**Definition**|
 |---|---|---|
 |**Fixation-Based Metrics**|**Fixation Duration**|% of time spent looking at a specific ROI (eyes, mouth, objects, geometry).|
