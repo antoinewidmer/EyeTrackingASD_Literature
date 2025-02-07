@@ -28,7 +28,7 @@ code_repo:
 dataset:
 ---
 
-##{{title}}
+## {{title}}
 
 > [!Cite]
 > {{bibliography}}
@@ -37,9 +37,10 @@ dataset:
 
 
 ## 🔬 Methods 
+
+### Study Design
+
 ### Participants
-
-
 
 ### Tasks for participants
 
@@ -54,4 +55,8 @@ dataset:
 
 
 
-## 📝 Notes for Review 
+## 📝 Observations
+
+### Strengths of the Study
+
+### Major Concerns and Challenges
