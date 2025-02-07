@@ -1,11 +1,13 @@
 ---
-title: 
-authors: 
-published: 
-journal: 
+title: {{title}}
+authors: {{authors}}
+published: {{date | format("YYYY")}}
+citekey: {{citekey}}
+journal: {{Publication}}
 Paper_type: 
-tags: 
-DOI: 
+tags: {% if allTags %}{{allTags}}{% endif %}
+DOI: {{DOI}}
+PdfZoteroLink : {{pdfZoteroLink}}
 category:
   main: 
   sub: 
@@ -18,7 +20,7 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers: 
+cited_papers: {{bibliography}}
 citing_papers: 
 other_connected_paper: 
 read_on: 
