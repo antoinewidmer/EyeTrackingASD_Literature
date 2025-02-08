@@ -6,7 +6,7 @@ citekey: washington2022
 journal: Intelligence-Based Medicine
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1016/j.ibmed.2022.100056
-PdfZoteroLink : [2022_Washington et al._Crowd annotations can approximate clinical autism impressions from short home videos with privacy pr.pdf](zotero://select/library/items/Z7R355YA)
+PdfZoteroLink : zotero://select/library/items/Z7R355YA
 tags: 
 category:
   main: 
