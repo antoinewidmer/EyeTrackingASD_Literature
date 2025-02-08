@@ -335,3 +335,13 @@ The **submitted videos** were analyzed by **trained human analysts** and an **AI
 ⚠️ **Lower specificity in Black children (53.6%)**—requires **further validation on diverse populations**.  
 ⚠️ **Exclusion of non-English speakers**—device **not yet multilingual**.  
 ⚠️ **Home video quality variability**—affects AI’s ability to analyze behavior accurately.
+
+![[image-2-x310-y411.png]]
+
+![[image-3-x35-y145.png]]
+
+![[image-5-x31-y610.png]]
+
+![[image-6-x41-y88.png]]
+
+![[image-7-x29-y51.png]]
