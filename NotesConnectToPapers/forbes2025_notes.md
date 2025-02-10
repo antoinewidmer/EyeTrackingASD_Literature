@@ -1,29 +1,5 @@
 ---
-title: Oculomotor Function in Children and Adolescents with Autism, ADHD or Co-occurring Autism and ADHD
-authors: 
-published: 2025
-journal: Journal of Autism and Developmental Disorders
-Paper_type: Research
-tags:
-  - ASD
-  - EyeTracking
-DOI: https://doi.org/10.1007/s10803-024-06718-3
-category:
-  main: 
-  sub: 
-device:
-  Type: EyeLink 1000
-  sampling_rate: 500
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
-cited_papers: 
-citing_papers: 
-other_connected_paper: 
-read_on: 
+citekey: forbes2025
 code_repo: 
 dataset: 
 EyeMetrics:
@@ -37,6 +13,8 @@ EyeMetrics:
   - Oculumetry/StepRampPursuit/OpenLoopGain
   - Oculumetry/StepRampPursuit/CatchUpSaccade
 ---
+
+[[forbes2025]]
 
 
 ## 📌 Summary
@@ -141,11 +119,11 @@ Participants in the study completed **four oculomotor (eye-tracking) tasks** des
 
 ##### Task Instructions:
 
-1. Participants **fixated on a stationary circular target** at the center of the screen.
-2. The target **jumped 3° to the left or right (step phase)** and then **moved continuously in the opposite direction (ramp phase)**.
-3. The target’s **speed increased or decreased gradually**.
-4. Participants had to **track the moving target as smoothly as possible**.
-5. **Total trials:** 32 (randomized left/right, slow/fast conditions).
+6. Participants **fixated on a stationary circular target** at the center of the screen.
+7. The target **jumped 3° to the left or right (step phase)** and then **moved continuously in the opposite direction (ramp phase)**.
+8. The target’s **speed increased or decreased gradually**.
+9. Participants had to **track the moving target as smoothly as possible**.
+10. **Total trials:** 32 (randomized left/right, slow/fast conditions).
 
 ##### Data Collected:
 
@@ -212,10 +190,10 @@ Each child’s **head was stabilized** for accurate tracking.
 
 ### Summary
 
-1. **Oculomotor variability (FEP) is higher in ASD + ADHD than NT controls.**
-2. **Autistic individuals have more catch-up saccades**, suggesting **sensorimotor deficits in pursuit eye movements.**
-3. **ADHD does not show the same oculomotor abnormalities as ASD**.
-4. **Findings were partially replicated in external datasets**, but some differences exist across studies.
+11. **Oculomotor variability (FEP) is higher in ASD + ADHD than NT controls.**
+12. **Autistic individuals have more catch-up saccades**, suggesting **sensorimotor deficits in pursuit eye movements.**
+13. **ADHD does not show the same oculomotor abnormalities as ASD**.
+14. **Findings were partially replicated in external datasets**, but some differences exist across studies.
 
 
 - ## 🔍 Related Work 
