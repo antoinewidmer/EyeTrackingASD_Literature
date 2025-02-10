@@ -1,24 +1,6 @@
-
-## Articles with participants
-
-can you read this paper and fill the following template: 
-## 📌 Summary 
-## 🔬 Methods 
-### Study Design 
-### Participants 
-### Tasks for participants 
-### System setup and hardware 
-### Data Analysis 
-## 📊 Results & Key Findings 
-## 🔍 Related Work 
-## 📝 Observations 
-### Strengths of the Study 
-### Major Concerns and Challenges
-
-
-## Meta analysis / literature review
-
-can you read this paper and fill the following template: 
+---
+citekey:
+---
 ## 📖 Summary
 
 - **Objective/Purpose:**
@@ -38,7 +20,8 @@ can you read this paper and fill the following template:
     - What types of studies were excluded?
     - Any limitations in methodology?
 
----
+create summary markdown table
+
 
 ## 🔬 Methods
 
@@ -49,6 +32,7 @@ can you read this paper and fill the following template:
 - **Screening process (PRISMA flowchart if applicable)**
 - **Number of studies included in final analysis**
 
+create summary markdown table with the included studies (title, Authors, year of publication, DOI, link)
 ### Data Extraction & Quality Assessment
 
 - **Who extracted data? (Single/double reviewers, automated tools?)**
@@ -64,7 +48,7 @@ can you read this paper and fill the following template:
 ## 📊 Results & Key Findings
 
 ### Overview of Included Studies
-
+in a markdown table place: 
 - **Number of studies included**
 - **Sample size range across studies**
 - **Study designs (RCTs, observational, cohort, case-control, etc.)**

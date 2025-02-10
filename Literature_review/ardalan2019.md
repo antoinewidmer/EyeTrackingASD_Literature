@@ -53,30 +53,14 @@ dataset:
 >.
 > 
 
-## 📌 Summary
 
+{{formattedAnnotations}}
 
-## 🔬 Methods 
+## Notes
 
-### Study Design
+```dataview 
+TABLE file.name 
+FROM "NotesConnectToPapers" 
+WHERE contains(file.name, this.citekey)
+```
 
-### Participants
-
-### Tasks for participants
-
-### System setup and hardware
-
-### Data Analysis
-
-## 📊 Results & Key Findings 
-
-
-## 🔍 Related Work 
-
-
-
-## 📝 Observations
-
-### Strengths of the Study
-
-### Major Concerns and Challenges

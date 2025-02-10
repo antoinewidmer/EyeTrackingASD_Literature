@@ -5,7 +5,7 @@ published: {{date | format("YYYY")}}
 citekey: {{citekey}}
 journal: {{Publication}}
 Paper_type: 
-tags: {% if allTags %}{{allTags}}{% endif %}
+tags: {{allTags}}
 DOI: {{DOI}}
 PdfZoteroLink : {{pdfZoteroLink}}
 category:

@@ -6,7 +6,7 @@ citekey: {{citekey}}
 journal: {{publicationTitle}}
 Paper_type: {{itemType}}
 DOI: https://www.doi.org/{{DOI}}
-PdfZoteroLink : {{pdfZoteroLink}}
+PdfZoteroLink : {{desktopURI}}
 tags: {{allTags}}
 category:
   main: 
@@ -57,30 +57,16 @@ dataset:
 > {%- endif -%}.
 > 
 
-## 📌 Summary
+
+## Notes
+
+```dataview 
+TABLE file.name 
+FROM "NotesConnectToPapers" 
+WHERE contains(file.name, this.citekey)
+```
 
 
-## 🔬 Methods 
+## Figures
 
-### Study Design
-
-### Participants
-
-### Tasks for participants
-
-### System setup and hardware
-
-### Data Analysis
-
-## 📊 Results & Key Findings 
-
-
-## 🔍 Related Work 
-
-
-
-## 📝 Observations
-
-### Strengths of the Study
-
-### Major Concerns and Challenges
+{{formattedAnnotations}}
