@@ -15,11 +15,12 @@ device:
   Type: 
   sampling_rate: 
 Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
+  Total: 485
+  ASD_boys: 23
+  ASD_girls: 20
+  TD_boys: 222
+  TD_girls:220
+  Age_Category: 21 months
 cited_papers:
 citing_papers: 
 other_connected_paper: 

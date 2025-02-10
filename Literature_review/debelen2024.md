@@ -6,7 +6,7 @@ citekey: debelen2024
 journal: PloS One
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1371/journal.pone.0282818
-PdfZoteroLink : zotero://select/library/items/ZXD4G7SJ)
+PdfZoteroLink : zotero://select/library/items/N47K9PF7
 tags: Autism Spectrum Disorder, Humans, Algorithms, Child, Preschool, Machine Learning, ROC Curve, Videotape Recording
 category:
   main: 
@@ -53,30 +53,18 @@ dataset:
 >.
 > 
 
-## 📌 Summary
+
+## Notes
+
+```dataview 
+TABLE file.name 
+FROM "NotesConnectToPapers" 
+WHERE contains(file.name, this.citekey)
+```
 
 
-## 🔬 Methods 
+## Figures
 
-### Study Design
+**Imported: 2025-02-10**
 
-### Participants
-
-### Tasks for participants
-
-### System setup and hardware
-
-### Data Analysis
-
-## 📊 Results & Key Findings 
-
-
-## 🔍 Related Work 
-
-
-
-## 📝 Observations
-
-### Strengths of the Study
-
-### Major Concerns and Challenges
+> ![[Images/debelen2024/image-3-x28-y74.png]]

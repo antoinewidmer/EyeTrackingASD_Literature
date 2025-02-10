@@ -7,19 +7,7 @@ journal: Journal of Child Psychology and Psychiatry
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1111/jcpp.14050
 PdfZoteroLink : zotero://select/library/items/96F9KRSC
-tags: Autism, ADHD, screening, preschool children
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
+tags: Autism, ADHD, screening, preschool children 
 cited_papers:
 citing_papers: 
 other_connected_paper: 

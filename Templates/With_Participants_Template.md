@@ -1,5 +1,19 @@
 ---
 citekey:
+category:
+  main: 
+  sub: 
+device:
+  Type: 
+  sampling_rate: 
+Participants:
+  Total: 
+  ASD_boys: 
+  ASD_girls: 
+  TD_boys: 
+  TD_girls: 
+code_repo: 
+dataset:
 ---
 
 ## 📌 Summary 

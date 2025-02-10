@@ -31,6 +31,14 @@ other_connected_paper:
 read_on: 
 code_repo: https://github.com/yihuacheng/Itracker
 dataset:
+
+population_total_participants: 993
+population_mean_age_months: 21.1
+population_age_range_months: "17.1 - 36.9"
+population_gender_distribution_boys: "50.6%"
+population_asd_toddlers: 40
+population_dev_lang_delay_toddlers: 17
+population_typically_developing_toddlers: 936
 ---
 
 ## Computational Methods to Measure Patterns of Gaze in Toddlers With Autism Spectrum Disorder
@@ -52,17 +60,20 @@ Data collection period: **December 2018 – March 2020**.
     
 ### Participants
 
-| Characteristic                        | Value |
-|---------------------------------------|-----------------------------|
-| **Total Participants**                | 993                         |
-| **Mean Age (months)**                 | 21.1                        |
-| **Age Range (months)**                 | 17.1 - 36.9                 |
-| **Gender Distribution (Boys)**        | 50.6%                       |
-| **Racial/Ethnic Composition**         | 59.8% White, 16.5% Black, 23.7% Other, 16.9% Hispanic/Latino |
-| **Education Level of Caregivers**     | 75.7% College Degree, 19.6% High School, 4.6% < High School |
-| **Toddlers Diagnosed with ASD**       | 40                          |
-| **Toddlers with Developmental/Language Delay** | 17                          |
-| **Typically Developing Toddlers**     | 936                         |
+| Characteristic                                 | Value                                                        |
+| ---------------------------------------------- | ------------------------------------------------------------ |
+| **Total Participants**                         | 993                                                          |
+| **Mean Age (months)**                          | 21.1                                                         |
+| **Age Range (months)**                         | 17.1 - 36.9                                                  |
+| **Gender Distribution (Boys)**                 | 50.6%                                                        |
+| **Racial/Ethnic Composition**                  | 59.8% White, 16.5% Black, 23.7% Other, 16.9% Hispanic/Latino |
+| **Education Level of Caregivers**              | 75.7% College Degree, 19.6% High School, 4.6% < High School  |
+| **Toddlers Diagnosed with ASD**                | 40                                                           |
+| **Toddlers with Developmental/Language Delay** | 17                                                           |
+| **Typically Developing Toddlers**              | 936                                                          |
+
+
+---
 
 
 

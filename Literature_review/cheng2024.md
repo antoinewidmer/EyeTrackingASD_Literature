@@ -4,7 +4,7 @@ authors: Yihua Cheng, Haofei Wang, Yiwei Bao, Feng Lu
 published: 2024
 citekey: cheng2024
 journal: 
-Paper_type: preprint
+Paper_type: review
 DOI: https://www.doi.org/10.48550/arXiv.2104.12668
 PdfZoteroLink : zotero://select/library/items/TFNNHQTM
 tags: Computer Science - Computer Vision and Pattern Recognition
