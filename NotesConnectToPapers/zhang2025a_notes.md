@@ -1,30 +1,18 @@
 ---
-title: Exploring Eye-tracking based Biomarkers to  Assess Cognitive Abilities in Autistic Children A  Feasibility Study
-authors: 
-published: 2025
-journal: IEEE Journal of Biomedical and Health Informatics
-Paper_type: Research
-tags:
-  - ASD
-  - Biomarker
-  - SeriousGame
-  - EyeTracking
-DOI: https://doi.org/10.1109/JBHI.2025.3531421
+citekey: zhang2025a
 category:
   main: 
   sub: 
 device:
   Type: Azure Kinect DK
-  sampling_rate: 30
+  sampling_rate: 30 
 Participants:
   Total: 37
   ASD_boys: 19
   ASD_girls: 4
   TD_boys: 11
   TD_girls: 3
-cited_papers: 
-citing_papers: 
-other_connected_paper: 
+  Age_Category: 6 year old 
 read_on: 
 code_repo: 
 dataset: 
@@ -35,6 +23,10 @@ EyeMetrics:
   - EyeTracking/SocialAttention/Face
 ---
 
+
+# Exploring Eye-tracking based Biomarkers to Assess Cognitive Abilities in Autistic Children: A Feasibility Study
+
+[[zhang2025a]]
 
 ## 📌 Summary
 
@@ -51,6 +43,8 @@ The study included **37 participants**, with a mix of **children with Autism Spe
     - **Mean age:** 6.96 years (± 0.78)
     - **Number of girls:** 3
 
+
+[[Zhang_2025]]
 
 ### Tasks for participants
 
@@ -151,9 +145,9 @@ In addition to tracking the users’ gaze, the study records and analyzes their 
 
 ### Implications:
 
-1. The study highlights the **potential of eye-tracking features as objective biomarkers** for cognitive assessment in ASD.
-2. It suggests that traditional assessments may miss important cognitive processing differences that eye-tracking can reveal.
-3. The hierarchical structured protocols proposed in the study could be useful for identifying **specific cognitive processing challenges** in ASD, aiding in early diagnosis and intervention strategies.
+4. The study highlights the **potential of eye-tracking features as objective biomarkers** for cognitive assessment in ASD.
+5. It suggests that traditional assessments may miss important cognitive processing differences that eye-tracking can reveal.
+6. The hierarchical structured protocols proposed in the study could be useful for identifying **specific cognitive processing challenges** in ASD, aiding in early diagnosis and intervention strategies.
 
 - ## 🔍 Related Work 
 
