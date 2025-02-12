@@ -6,8 +6,31 @@ citekey: zhang2025a
 journal: IEEE Journal of Biomedical and Health Informatics
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1109/JBHI.2025.3531421
-PdfZoteroLink : zotero://select/library/items/2S9QDGWZ
-tags: Autism, human-computer interaction, eye tracking, Gaze tracking, Emotion recognition, Visualization, Games, Protocols, Cognition, Biomarkers, autism spectrum disorder, Bioinformatics, cognitive assessment, Magnetic heads, obsidian
+PdfZoteroLink: zotero://select/library/items/2S9QDGWZ
+tags:
+  - Autism
+  - human-computer
+  - interaction
+  - eye
+  - tracking
+  - Gaze
+  - tracking
+  - Emotion
+  - recognition
+  - Visualization
+  - Games
+  - Protocols
+  - Cognition
+  - Biomarkers
+  - autism
+  - spectrum
+  - disorder
+  - Bioinformatics
+  - cognitive
+  - assessment
+  - Magnetic
+  - heads
+  - obsidian
 category:
   main: 
   sub: 
@@ -20,12 +43,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Exploring Eye-tracking based Biomarkers to Assess Cognitive Abilities in Autistic Children: A Feasibility Study

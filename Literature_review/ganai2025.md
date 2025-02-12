@@ -29,7 +29,8 @@ citing_papers:
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Early detection of autism spectrum disorder: gait deviations and machine learning

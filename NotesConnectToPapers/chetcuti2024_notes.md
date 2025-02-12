@@ -1,5 +1,6 @@
 ---
 citekey: chetcuti2024
+dg-publish: true
 ---
 [[chetcuti2024]]
 

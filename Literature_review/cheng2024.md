@@ -6,8 +6,16 @@ citekey: cheng2024
 journal: 
 Paper_type: review
 DOI: https://www.doi.org/10.48550/arXiv.2104.12668
-PdfZoteroLink : zotero://select/library/items/TFNNHQTM
-tags: Computer Science - Computer Vision and Pattern Recognition
+PdfZoteroLink: zotero://select/library/items/TFNNHQTM
+tags:
+  - Computer
+  - Science
+  - "-"
+  - Computer
+  - Vision
+  - and
+  - Pattern
+  - Recognition
 category:
   main: 
   sub: 
@@ -20,12 +28,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark

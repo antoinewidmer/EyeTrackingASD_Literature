@@ -6,8 +6,11 @@ citekey: perochon2023a
 journal: Nature Medicine
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41591-023-02574-3
-PdfZoteroLink : zotero://select/library/items/9C3Y43KU
-tags: Machine learning, Disability
+PdfZoteroLink: zotero://select/library/items/9C3Y43KU
+tags:
+  - Machine
+  - learning
+  - Disability
 category:
   main: 
   sub: 
@@ -20,12 +23,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Early detection of autism using digital behavioral phenotyping

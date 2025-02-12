@@ -6,8 +6,21 @@ citekey: journal2024
 journal: Autism Research
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1002/aur.3188
-PdfZoteroLink : zotero://select/library/items/HUXL4QUD
-tags: autism spectrum disorders, joint attention, cluster analysis, deep phenotyping, nonverbal communication, phenotype, trajectories
+PdfZoteroLink: zotero://select/library/items/HUXL4QUD
+tags:
+  - autism
+  - spectrum
+  - disorders
+  - joint
+  - attention
+  - cluster
+  - analysis
+  - deep
+  - phenotyping
+  - nonverbal
+  - communication
+  - phenotype
+  - trajectories
 category:
   main: 
   sub: 
@@ -20,12 +33,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Phenotyping variability in early socio-communicative skills in young children with autism and its influence on later development

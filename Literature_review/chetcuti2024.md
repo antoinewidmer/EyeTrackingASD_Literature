@@ -6,8 +6,11 @@ citekey: chetcuti2024
 journal: Scientific Reports
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41598-024-55643-z
-PdfZoteroLink : zotero://select/library/items/U7I4VI9K
-tags: Disability, Risk factors
+PdfZoteroLink: zotero://select/library/items/U7I4VI9K
+tags:
+  - Disability
+  - Risk
+  - factors
 category:
   main: 
   sub: 
@@ -21,12 +24,13 @@ Participants:
   TD_boys: 0
   TD_girls: 0
   Age_Category: 9-14 months old
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Feasibility of a 2-minute eye-tracking protocol to support the early identification of autism

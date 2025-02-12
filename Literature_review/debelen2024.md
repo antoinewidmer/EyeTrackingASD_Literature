@@ -6,8 +6,21 @@ citekey: debelen2024
 journal: PloS One
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1371/journal.pone.0282818
-PdfZoteroLink : zotero://select/library/items/N47K9PF7
-tags: Autism Spectrum Disorder, Humans, Algorithms, Child, Preschool, Machine Learning, ROC Curve, Videotape Recording
+PdfZoteroLink: zotero://select/library/items/N47K9PF7
+tags:
+  - Autism
+  - Spectrum
+  - Disorder
+  - Humans
+  - Algorithms
+  - Child
+  - Preschool
+  - Machine
+  - Learning
+  - ROC
+  - Curve
+  - Videotape
+  - Recording
 category:
   main: 
   sub: 
@@ -20,12 +33,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Using visual attention estimation on videos for automated prediction of autism spectrum disorder and symptom severity in preschool children

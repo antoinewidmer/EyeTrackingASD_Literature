@@ -6,8 +6,18 @@ citekey: lencastre2024a
 journal: Diagnostics
 Paper_type: 
 DOI: https://www.doi.org/10.3390/diagnostics14101047
-PdfZoteroLink : zotero://select/library/items/MTUHJTLJ
-tags: autism, AI, eye-tracking, autism diagnosis, eye gaze dynamics, intelligent health
+PdfZoteroLink: zotero://select/library/items/MTUHJTLJ
+tags:
+  - autism
+  - AI
+  - eye-tracking
+  - autism
+  - diagnosis
+  - eye
+  - gaze
+  - dynamics
+  - intelligent
+  - health
 category:
   main: 
   sub: 
@@ -20,12 +30,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Identifying Autism Gaze Patterns in Five-Second Data Records

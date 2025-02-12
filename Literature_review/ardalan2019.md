@@ -6,8 +6,15 @@ citekey: ardalan2019
 journal: Scientific Reports
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41598-019-56362-6
-PdfZoteroLink : zotero://select/library/items/Q85M6AUH
-tags: Autism spectrum disorders, Human behaviour, Motor control
+PdfZoteroLink: zotero://select/library/items/Q85M6AUH
+tags:
+  - Autism
+  - spectrum
+  - disorders
+  - Human
+  - behaviour
+  - Motor
+  - control
 category:
   main: 
   sub: 
@@ -20,12 +27,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Whole-Body Movement during Videogame Play Distinguishes Youth with Autism from Youth with Typical Development

@@ -13,8 +13,13 @@ Participants:
   TD_boys: 
   TD_girls: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
+
+# Unraveling the developmental dynamic of visual exploration of social interactions in autism
+
+[[kojovic2024]]
 
 ## 📌 Summary
 

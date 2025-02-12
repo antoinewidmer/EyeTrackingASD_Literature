@@ -6,8 +6,15 @@ citekey: forbes2025
 journal: Journal of Autism and Developmental Disorders
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-024-06718-3
-PdfZoteroLink : zotero://select/library/items/NF2SFHZ8
-tags: Autism, ADHD, Endophenotype, Neurodevelopment, Oculomotor Control, obsidian
+PdfZoteroLink: zotero://select/library/items/NF2SFHZ8
+tags:
+  - Autism
+  - ADHD
+  - Endophenotype
+  - Neurodevelopment
+  - Oculomotor
+  - Control
+  - obsidian
 category:
   main: 
   sub: 
@@ -20,12 +27,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Oculomotor Function in Children and Adolescents with Autism, ADHD or Co-occurring Autism and ADHD

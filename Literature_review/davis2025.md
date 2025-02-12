@@ -6,14 +6,20 @@ citekey: davis2025
 journal: Journal of Child Psychology and Psychiatry
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1111/jcpp.14050
-PdfZoteroLink : zotero://select/library/items/96F9KRSC
-tags: Autism, ADHD, screening, preschool children 
-cited_papers:
+PdfZoteroLink: zotero://select/library/items/96F9KRSC
+tags:
+  - Autism
+  - ADHD
+  - screening
+  - preschool
+  - children
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Behavioral characteristics of toddlers later identified with an autism diagnosis, ADHD symptoms, or combined autism and ADHD symptoms

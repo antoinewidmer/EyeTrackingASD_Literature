@@ -1,5 +1,6 @@
 ---
 citekey: chien2023
+dg-publish: true
 ---
 [[chien2023]]
 

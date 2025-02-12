@@ -6,8 +6,19 @@ citekey: zaharia2024
 journal: Journal of Autism and Developmental Disorders
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-024-06504-1
-PdfZoteroLink : zotero://select/library/items/GAW2AYYP
-tags: Eye-tracking, Autism spectrum disorder, Neurodevelopmental Disorders, Baby schema, Cuteness, Social affect
+PdfZoteroLink: zotero://select/library/items/GAW2AYYP
+tags:
+  - Eye-tracking
+  - Autism
+  - spectrum
+  - disorder
+  - Neurodevelopmental
+  - Disorders
+  - Baby
+  - schema
+  - Cuteness
+  - Social
+  - affect
 category:
   main: 
   sub: 
@@ -20,12 +31,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Examining the Link Between Social Affect and Visual Exploration of Cute Stimuli in Autistic Children

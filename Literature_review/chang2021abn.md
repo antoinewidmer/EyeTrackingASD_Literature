@@ -30,15 +30,15 @@ citing_papers:
 other_connected_paper: 
 read_on: 
 code_repo: https://github.com/yihuacheng/Itracker
-dataset:
-
+dataset: 
 population_total_participants: 993
 population_mean_age_months: 21.1
-population_age_range_months: "17.1 - 36.9"
-population_gender_distribution_boys: "50.6%"
+population_age_range_months: 17.1 - 36.9
+population_gender_distribution_boys: 50.6%
 population_asd_toddlers: 40
 population_dev_lang_delay_toddlers: 17
 population_typically_developing_toddlers: 936
+dg-publish: true
 ---
 
 ## Computational Methods to Measure Patterns of Gaze in Toddlers With Autism Spectrum Disorder

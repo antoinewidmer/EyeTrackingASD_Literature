@@ -12,6 +12,7 @@ EyeMetrics:
   - Oculometry/SmoothPursuit/CatchUpSaccade
   - Oculumetry/StepRampPursuit/OpenLoopGain
   - Oculumetry/StepRampPursuit/CatchUpSaccade
+dg-publish: true
 ---
 
 [[forbes2025]]

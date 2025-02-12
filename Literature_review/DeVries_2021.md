@@ -25,7 +25,8 @@ citing_papers:
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 

@@ -6,8 +6,15 @@ citekey: leblanc2020
 journal: Scientific Reports
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41598-020-76874-w
-PdfZoteroLink : zotero://select/library/items/6BTXXE8H
-tags: Machine learning, Autism spectrum disorders, Paediatric research
+PdfZoteroLink: zotero://select/library/items/6BTXXE8H
+tags:
+  - Machine
+  - learning
+  - Autism
+  - spectrum
+  - disorders
+  - Paediatric
+  - research
 category:
   main: 
   sub: 
@@ -20,12 +27,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Feature replacement methods enable reliable home video analysis for machine learning detection of autism

@@ -6,8 +6,17 @@ citekey: perkovich2024
 journal: Journal of Neurodevelopmental Disorders
 Paper_type: 
 DOI: https://www.doi.org/10.1186/s11689-024-09524-1
-PdfZoteroLink : zotero://select/library/items/FTSXHCXV
-tags: Attention, Eye-tracking, Autism spectrum disorder, Social behavior, Social cognition
+PdfZoteroLink: zotero://select/library/items/FTSXHCXV
+tags:
+  - Attention
+  - Eye-tracking
+  - Autism
+  - spectrum
+  - disorder
+  - Social
+  - behavior
+  - Social
+  - cognition
 category:
   main: 
   sub: 
@@ -20,12 +29,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Conducting head-mounted eye-tracking research with young children with autism and children with increased likelihood of later autism diagnosis

@@ -6,8 +6,21 @@ citekey: griffin2025
 journal: Biological Psychiatry Cognitive Neuroscience and Neuroimaging
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1016/j.bpsc.2024.08.017
-PdfZoteroLink : zotero://select/library/items/RXCIV84Y
-tags: Eye tracking, Autism spectrum disorder (ASD), HMM, Markov models, Visual attention, Visual search
+PdfZoteroLink: zotero://select/library/items/RXCIV84Y
+tags:
+  - Eye
+  - tracking
+  - Autism
+  - spectrum
+  - disorder
+  - (ASD)
+  - HMM
+  - Markov
+  - models
+  - Visual
+  - attention
+  - Visual
+  - search
 category:
   main: 
   sub: 
@@ -20,12 +33,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Spatiotemporal Eye Movement Dynamics Reveal Altered Face Prioritization in Early Visual Processing Among Autistic Children

@@ -6,8 +6,19 @@ citekey: kojovic2024
 journal: eLife
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.7554/eLife.85623
-PdfZoteroLink : zotero://select/library/items/YBKVZQCT
-tags: eye-tracking, autism spectrum disorders, developmental trajectories, divergence, longitudinal, prediction of symptomatology
+PdfZoteroLink: zotero://select/library/items/YBKVZQCT
+tags:
+  - eye-tracking
+  - autism
+  - spectrum
+  - disorders
+  - developmental
+  - trajectories
+  - divergence
+  - longitudinal
+  - prediction
+  - of
+  - symptomatology
 category:
   main: 
   sub: 
@@ -20,12 +31,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Unraveling the developmental dynamic of visual exploration of social interactions in autism

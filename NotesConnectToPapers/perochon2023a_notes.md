@@ -2,7 +2,8 @@
 citekey: perochon2023a
 code_repo: 
 dataset: 
-EyeMetrics:
+EyeMetrics: 
+dg-publish: true
 ---
 
 ## Early detection of autism using digital behavioral phenotyping

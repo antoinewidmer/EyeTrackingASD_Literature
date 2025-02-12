@@ -6,8 +6,21 @@ citekey: isaev2024
 journal: Journal of Autism and Developmental Disorders
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-023-05973-0
-PdfZoteroLink : zotero://select/library/items/66ZHMMRV
-tags: Computer vision, Autism, ADHD, Neurodevelopmental Disorders, Caregiver–child interaction, Dyadic data analysis, Micro-analytic coding
+PdfZoteroLink: zotero://select/library/items/66ZHMMRV
+tags:
+  - Computer
+  - vision
+  - Autism
+  - ADHD
+  - Neurodevelopmental
+  - Disorders
+  - Caregiver–child
+  - interaction
+  - Dyadic
+  - data
+  - analysis
+  - Micro-analytic
+  - coding
 category:
   main: 
   sub: 
@@ -20,12 +33,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Computer Vision Analysis of Caregiver–Child Interactions in Children with Neurodevelopmental Disorders: A Preliminary Report

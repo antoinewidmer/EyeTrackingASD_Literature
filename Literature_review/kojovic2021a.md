@@ -6,8 +6,14 @@ citekey: kojovic2021a
 journal: Scientific Reports
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41598-021-94378-z
-PdfZoteroLink : zotero://select/library/items/28LADMH2)
-tags: Diagnostic markers, Human behaviour, Social behaviour
+PdfZoteroLink: zotero://select/library/items/28LADMH2)
+tags:
+  - Diagnostic
+  - markers
+  - Human
+  - behaviour
+  - Social
+  - behaviour
 category:
   main: 
   sub: 
@@ -20,12 +26,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Using 2D video-based pose estimation for automated prediction of autism spectrum disorders in young children

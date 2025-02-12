@@ -6,8 +6,14 @@ citekey: coffman2023
 journal: Autism Research
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1002/aur.2955
-PdfZoteroLink : zotero://select/library/items/R7ZL7LP3
-tags: autism, screening, computer vision, digital phenotyping
+PdfZoteroLink: zotero://select/library/items/R7ZL7LP3
+tags:
+  - autism
+  - screening
+  - computer
+  - vision
+  - digital
+  - phenotyping
 category:
   main: 
   sub: 
@@ -19,14 +25,15 @@ Participants:
   ASD_boys: 23
   ASD_girls: 20
   TD_boys: 222
-  TD_girls:220
+  TD_girls: 220
   Age_Category: 21 months
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Relationship between quantitative digital behavioral features and clinical profiles in young autistic children

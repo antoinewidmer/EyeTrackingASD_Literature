@@ -6,8 +6,16 @@ citekey: megerian2022a
 journal: npj Digital Medicine
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41746-022-00598-6
-PdfZoteroLink : zotero://select/library/items/8I7C3RFL
-tags: Machine learning, Autism spectrum disorders, Diagnosis, Paediatric research
+PdfZoteroLink: zotero://select/library/items/8I7C3RFL
+tags:
+  - Machine
+  - learning
+  - Autism
+  - spectrum
+  - disorders
+  - Diagnosis
+  - Paediatric
+  - research
 category:
   main: 
   sub: 
@@ -20,12 +28,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Evaluation of an artificial intelligence-based medical device for diagnosis of autism spectrum disorder

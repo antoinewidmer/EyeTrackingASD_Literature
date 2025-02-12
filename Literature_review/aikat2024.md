@@ -6,7 +6,7 @@ citekey: aikat2024
 journal: 
 Paper_type: conferencePaper
 DOI: https://www.doi.org/10.1145/3672539.3686323
-PdfZoteroLink : zotero://select/library/items/GHSAFDL2
+PdfZoteroLink: zotero://select/library/items/GHSAFDL2
 tags: 
 category:
   main: 
@@ -20,12 +20,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish:
 ---
 
 ## Digital Phenotyping based on a Mobile App Identifies Distinct and Overlapping Features in Children Diagnosed with Autism versus ADHD

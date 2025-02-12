@@ -6,8 +6,28 @@ citekey: chien2023
 journal: IEEE Transactions on Neural Systems and Rehabilitation Engineering
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1109/TNSRE.2022.3232369
-PdfZoteroLink : zotero://select/library/items/WUIRQIWA
-tags: Face recognition, Autism, eye tracking, Gaze tracking, Emotion recognition, Games, Biomarkers, autism spectrum disorder, serious games, Pediatrics, Social interaction game
+PdfZoteroLink: zotero://select/library/items/WUIRQIWA
+tags:
+  - Face
+  - recognition
+  - Autism
+  - eye
+  - tracking
+  - Gaze
+  - tracking
+  - Emotion
+  - recognition
+  - Games
+  - Biomarkers
+  - autism
+  - spectrum
+  - disorder
+  - serious
+  - games
+  - Pediatrics
+  - Social
+  - interaction
+  - game
 category:
   main: 
   sub: 
@@ -21,12 +41,13 @@ Participants:
   TD_boys: 19
   TD_girls: 11
   Age_Category: 5 years old, 13 years old
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Game-Based Social Interaction Platform for Cognitive Assessment of Autism Using Eye Tracking

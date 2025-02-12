@@ -66,6 +66,7 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
+[[{{citeykey}}_notes]]
 
 ## Figures
 

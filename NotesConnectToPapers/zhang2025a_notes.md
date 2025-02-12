@@ -5,14 +5,14 @@ category:
   sub: 
 device:
   Type: Azure Kinect DK
-  sampling_rate: 30 
+  sampling_rate: 30
 Participants:
   Total: 37
   ASD_boys: 19
   ASD_girls: 4
   TD_boys: 11
   TD_girls: 3
-  Age_Category: 6 year old 
+  Age_Category: 6 year old
 read_on: 
 code_repo: 
 dataset: 
@@ -21,6 +21,7 @@ EyeMetrics:
   - EyeTracking/Fixation/FirstFixation/Latency
   - EyeTracking/Fixation/Duration
   - EyeTracking/SocialAttention/Face
+dg-publish: true
 ---
 
 

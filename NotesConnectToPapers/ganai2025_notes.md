@@ -1,5 +1,6 @@
 ---
 citekey: ganai2025
+dg-publish: true
 ---
 
 ## Zotero link

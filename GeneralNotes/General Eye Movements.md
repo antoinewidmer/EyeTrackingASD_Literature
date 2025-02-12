@@ -1,3 +1,8 @@
+---
+dg-publish: true
+---
+
+
 Eye movements are broadly categorized into **fixation-based, saccade-based, gaze transition, pupillometry, and blink-based metrics**. 
 
 ---

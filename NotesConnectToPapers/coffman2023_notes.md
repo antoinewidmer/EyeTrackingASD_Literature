@@ -1,6 +1,6 @@
 ---
 citekey: coffman2023
-
+dg-publish: true
 ---
 [[coffman2023]]
 

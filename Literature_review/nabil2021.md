@@ -6,8 +6,28 @@ citekey: nabil2021
 journal: Health Informatics Journal
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1177/1460458221991882
-PdfZoteroLink : zotero://select/library/items/686F2T5Q
-tags: Autism Spectrum Disorder, autism, screening, machine learning, Autistic Disorder, Humans, Machine Learning, diagnosis, Early Diagnosis, feature selection, Support Vector Machine
+PdfZoteroLink: zotero://select/library/items/686F2T5Q
+tags:
+  - Autism
+  - Spectrum
+  - Disorder
+  - autism
+  - screening
+  - machine
+  - learning
+  - Autistic
+  - Disorder
+  - Humans
+  - Machine
+  - Learning
+  - diagnosis
+  - Early
+  - Diagnosis
+  - feature
+  - selection
+  - Support
+  - Vector
+  - Machine
 category:
   main: 
   sub: 
@@ -20,12 +40,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Applying machine learning on home videos for remote autism diagnosis: Further study and analysis

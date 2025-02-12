@@ -6,8 +6,21 @@ citekey: bucci2024
 journal: Journal of Pediatric Neuropsychology
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s40817-024-00172-w
-PdfZoteroLink : zotero://select/library/items/5BAZLUMX
-tags: Children, Neurodevelopmental Disorders, Cerebellum, Eye movements, Frontal eye filed, Neurodevelopment disorders, Postural control
+PdfZoteroLink: zotero://select/library/items/5BAZLUMX
+tags:
+  - Children
+  - Neurodevelopmental
+  - Disorders
+  - Cerebellum
+  - Eye
+  - movements
+  - Frontal
+  - eye
+  - filed
+  - Neurodevelopment
+  - disorders
+  - Postural
+  - control
 category:
   main: 
   sub: 
@@ -20,12 +33,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Eye Movements and Postural Control in Children; Biomarkers of Neurodevelopmental Disorders: Evidences Toward New Forms of Therapeutic Intervention?
