@@ -16,6 +16,11 @@ dg-home: true
 - [[ASD papers]]
 - [[Summary of Participant Characteristics]]
 
+- [[Female Detection Bias]]
+
+
+### other research groups
+
 - [[Autism research - Duke]]
 - [[Autism research - IDIAP]]
 - [[Autism research - UNIGE]]
