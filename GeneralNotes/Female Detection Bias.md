@@ -3,7 +3,7 @@ dg-publish: true
 ---
 
 ```dataview 
-TABLE file.name AS "Note", 
+TABLE
 title, 
 Paper_type
 FROM "Literature_review"

@@ -9,7 +9,7 @@ dg-publish: true
 
 
 ```dataview 
-TABLE file.name AS "Note", 
+TABLE 
 title, 
 published,
 journal,

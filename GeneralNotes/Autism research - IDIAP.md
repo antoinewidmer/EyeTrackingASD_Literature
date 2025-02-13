@@ -5,7 +5,7 @@ dg-publish: true
 [AI4Autism - Idiap Publications](https://publications.idiap.ch/projects/show/128)
 
 ```dataview 
-TABLE "[[" + file.name + "]]" AS "Note", 
+TABLE
 title, 
 published,
 journal,

@@ -6,7 +6,7 @@ dg-publish: true
 ## Articles on Eye-Tracking in ASD Detection
 
 ```dataview 
-TABLE file.name AS "Note", 
+TABLE 
 EyeMetrics AS "EyeMetrics",
 title, 
 Paper_type,

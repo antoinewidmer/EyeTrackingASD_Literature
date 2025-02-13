@@ -6,7 +6,7 @@ dg-publish: true
 [Publications - Département de psychiatrie - UNIGE](https://www.unige.ch/medecine/psyat/groupes-de-recherche/1033schaer/publications)
 
 ```dataview 
-TABLE file.name AS "Note", 
+TABLE 
 title, 
 published,
 journal,
