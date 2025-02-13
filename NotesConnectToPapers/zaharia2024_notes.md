@@ -35,7 +35,7 @@ dg-publish: true
 
 ## 🔬 Methods
 
-### **Study Design**
+### Study Design
 
 - **Observational study** using **eye-tracking** to analyze gaze behavior.
 - **Visual Exploration Task (VET)**: Participants viewed **static images** of human babies, animals, adults, and neutral objects.
@@ -43,7 +43,7 @@ dg-publish: true
 
 ---
 
-### **Participants**
+### Participants
 
 | Characteristic       | Value |
 |---------------------|--------------------------------|
@@ -58,7 +58,7 @@ dg-publish: true
 
 ---
 
-### **Tasks for Participants**
+### Tasks for Participants
 
 | Task Name                | Purpose                                    | Format                        | Data Collected |
 |--------------------------|--------------------------------|-------------------------|----------------------------|
@@ -68,7 +68,7 @@ dg-publish: true
 
 ---
 
-### **System Setup and Hardware**
+### System Setup and Hardware
 
 | Device | Purpose | Specifications |
 |--------|---------|------------------|
@@ -77,9 +77,9 @@ dg-publish: true
 | **9-Point Calibration System** | Ensure accurate gaze tracking | Operator-paced recalibration |
 
 
-### **Data Analysis**
+### Data Analysis
 
-#### **Collected Features in Dataset**
+#### Collected Features in Dataset
 
 | Feature Category          | Feature Name              | Related Task | Measurement Description |
 |--------------------------|----------------------|-------------|--------------------------|
@@ -94,7 +94,7 @@ dg-publish: true
 
 ## 📊 Results & Key Findings
 
-### **Key Findings:**
+### Key Findings:
 
 - **Autistic children with lower symptom severity (LMS ASD) and TD children preferred looking at babies and animals**.
 - **HS ASD children spent significantly more time looking at adults rather than babies**, indicating **altered social reward processing**.
@@ -103,7 +103,7 @@ dg-publish: true
 
 ---
 
-### **Implications for the Project**
+### Implications for the Project
 
 - **Confirms that autism symptom severity affects attention to social stimuli**.
 - **Highlights social reward processing differences in ASD**.
@@ -123,7 +123,7 @@ dg-publish: true
 
 ## 📝 Observations
 
-### **Strengths of the Study**
+### Strengths of the Study
 
 ✅ **Innovative paradigm using baby schema to assess social motivation in ASD**.  
 ✅ **Large sample size compared to prior studies on cute stimuli (N=94 vs. ~9 in Sasson et al., 2012)**.  
@@ -133,7 +133,7 @@ dg-publish: true
 
 ---
 
-### **Major Concerns and Challenges**
+### Major Concerns and Challenges
 
 ⚠ **Reliance on Static Images**
 
@@ -162,7 +162,7 @@ dg-publish: true
 
 ---
 
-### **Final Verdict: Strong but Needs Further Validation**
+### Final Verdict: Strong but Needs Further Validation
 
 ✅ **Provides novel insights into visual attention and social motivation in ASD**.  
 ✅ **Highlights the role of baby schema in autism research**.  

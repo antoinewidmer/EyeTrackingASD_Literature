@@ -9,13 +9,17 @@ dg-home: true
 - [[General Eye Movements]]
 - [[Eye tracking systems]]
 - [[Studied Eye movements]]
-- [[Summary]]
+- [[Articles using Eye-Tracking in ASD Detection]]
 
 ## Autism research
+
+- [[ASD papers]]
+- [[Summary of Participant Characteristics]]
 
 - [[Autism research - Duke]]
 - [[Autism research - IDIAP]]
 - [[Autism research - UNIGE]]
+
 
 
 ## [[List of all papers]]

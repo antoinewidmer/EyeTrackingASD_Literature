@@ -38,7 +38,7 @@ dg-publish: true
 
 ## 🔬 Methods
 
-### **Study Design**
+### Study Design
 
 - **Longitudinal study** using **eye-tracking** to analyze gaze behavior in autistic and TD children.
 - **Stimulus**: A **3-minute cartoon ("Trotro")** depicting social interactions.
@@ -47,7 +47,7 @@ dg-publish: true
 
 ---
 
-### **Participants**
+### Participants
 
 | Characteristic       | Value |
 |---------------------|--------------------------------|
@@ -60,7 +60,7 @@ dg-publish: true
 | **Exclusion Criteria** | Severe cognitive impairment, poor eye-tracking quality (<50% valid data) |
 
 
-### **Tasks for Participants**
+### Tasks for Participants
 
 | Task Name                | Purpose                                    | Format                        | Data Collected |
 |--------------------------|--------------------------------|-------------------------|----------------------------|
@@ -70,7 +70,7 @@ dg-publish: true
 | **Autism Diagnostic Observation Schedule (ADOS-2)** | Confirm ASD diagnosis | Structured clinical assessment | Social affect, repetitive behaviors |
 
 
-### **System Setup and Hardware**
+### System Setup and Hardware
 
 | Device | Purpose | Specifications |
 |--------|---------|------------------|
@@ -80,9 +80,9 @@ dg-publish: true
 | **Vineland Adaptive Behavior Scales (VABS-II)** | Measure adaptive skills | Parent-reported questionnaire |
 
 
-### **Data Analysis**
+### Data Analysis
 
-#### **Collected Features in Dataset**
+#### Collected Features in Dataset
 
 | Feature Category          | Feature Name              | Related Task | Measurement Description |
 |--------------------------|----------------------|-------------|--------------------------|
@@ -95,7 +95,7 @@ dg-publish: true
 
 ## 📊 Results & Key Findings
 
-### **Key Findings:**
+### Key Findings:
 
 - **ASD gaze patterns were more dispersed and less consistent than TD children**.
 - **Gaze divergence increased with age in ASD, while TD children showed more coherent gaze patterns over time**.
@@ -105,7 +105,7 @@ dg-publish: true
 
 ---
 
-### **Implications for the Project**
+### Implications for the Project
 
 - **Confirms that visual exploration differences emerge early in ASD**.
 - **Supports the use of eye-tracking as an early biomarker for ASD severity and developmental trajectories**.
@@ -125,7 +125,7 @@ dg-publish: true
 
 ## 📝 Observations
 
-### **Strengths of the Study**
+### Strengths of the Study
 
 ✅ **Large sample size for a longitudinal eye-tracking study** (166 ASD, 51 TD).  
 ✅ **Innovative Proximity Index (PI) method allows frame-by-frame comparison to TD gaze patterns**.  
@@ -135,7 +135,7 @@ dg-publish: true
 
 ---
 
-### **Major Concerns and Challenges**
+### Major Concerns and Challenges
 
 ⚠ **Limited Gender Representation**
 
@@ -163,7 +163,7 @@ dg-publish: true
 
 ---
 
-### **Final Verdict: Strong but Needs Further Validation**
+### Final Verdict: Strong but Needs Further Validation
 
 ✅ **Provides compelling evidence of atypical gaze development in ASD**.  
 ✅ **Reinforces need for early gaze-based interventions**.  
