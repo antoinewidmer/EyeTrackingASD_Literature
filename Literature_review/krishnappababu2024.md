@@ -7,7 +7,8 @@ journal:
 Paper_type: conferencePaper
 DOI: https://www.doi.org/10.1145/3613905.3650995
 PdfZoteroLink: zotero://select/library/items/LENFLGR3
-tags: 
+tags:
+  - EyeTracking
 category:
   main: 
   sub: 

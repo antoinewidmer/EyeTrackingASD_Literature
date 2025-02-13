@@ -13,7 +13,6 @@ tags:
   - Autism
   - spectrum
   - disorder
-  - (ASD)
   - HMM
   - Markov
   - models
@@ -21,6 +20,8 @@ tags:
   - attention
   - Visual
   - search
+  - EyeTracking
+  - ASD
 category:
   main: 
   sub: 

@@ -7,7 +7,9 @@ journal: JAMA
 Paper_type: 
 DOI: https://www.doi.org/10.1001/jama.2023.13295
 PdfZoteroLink: zotero://select/library/items/9SI69V4K
-tags: 
+tags:
+  - EyeTracking
+  - ASD
 category:
   main: 
   sub: 

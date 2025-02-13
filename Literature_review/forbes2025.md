@@ -15,6 +15,7 @@ tags:
   - Oculomotor
   - Control
   - obsidian
+  - EyeTracking
 category:
   main: 
   sub: 

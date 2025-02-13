@@ -31,6 +31,7 @@ tags:
   - Magnetic
   - heads
   - obsidian
+  - EyeTracking
 category:
   main: 
   sub: 

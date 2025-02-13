@@ -7,7 +7,11 @@ journal:
 Paper_type: conferencePaper
 DOI: https://www.doi.org/10.1145/3672539.3686323
 PdfZoteroLink: zotero://select/library/items/GHSAFDL2
-tags: 
+tags:
+  - ASD
+  - mobile
+  - ADHD
+  - EyeTracking
 category:
   main: 
   sub: 
@@ -26,7 +30,7 @@ other_connected_paper:
 read_on: 
 code_repo: 
 dataset: 
-dg-publish:
+dg-publish: true
 ---
 
 ## Digital Phenotyping based on a Mobile App Identifies Distinct and Overlapping Features in Children Diagnosed with Autism versus ADHD
