@@ -27,13 +27,13 @@ dg-publish: true
 
 ## 🔬 Methods
 
-### **Study Design**
+### Study Design
 
 - **Longitudinal study** conducted in **four pediatric primary care clinics**.
 - Parent-reported behavior data collected at **two time points** (18-24 months & ~36 months).
 - Diagnostic classifications were **confirmed through research evaluations and electronic health records**.
 
-### **Participants**
+### Participants
 
 | Characteristic       | Value |
 |---------------------|--------------------------------|
@@ -49,7 +49,7 @@ dg-publish: true
 | **Exclusion Criteria** | Illness, distress preventing participation |
 
 
-### **Tasks for Participants**
+### Tasks for Participants
 | Task Name                | Purpose                                    | Format                        | Data Collected |
 |--------------------------|--------------------------------|-------------------------|----------------------------|
 | **M-CHAT-R/F**           | Autism screening             | Parent questionnaire  | Autism-related behaviors |
@@ -59,7 +59,7 @@ dg-publish: true
 | **Parent Stress Scale**   | General parenting stress | Parent questionnaire  | Emotional and support needs |
 | **Autism Parent Stress Index** | Autism-specific parenting stress | Parent questionnaire | Autism-specific caregiver burden |
 
-### **System Setup and Hardware**
+### System Setup and Hardware
 
 | Device | Purpose | Specifications |
 |--------|---------|------------------|
@@ -68,9 +68,9 @@ dg-publish: true
 | **Remote Telehealth Assessments** | Autism/ADHD evaluation | Used due to COVID-19 restrictions |
 | **In-Person Clinical Assessments** | Diagnostic gold standard | ADOS-2, CARS-2, MINI interviews |
 
-### **Data Analysis**
+### Data Analysis
 
-#### **Collected Features in Dataset**
+#### Collected Features in Dataset
 
 | Feature Category          | Feature Name              | Related Task | Measurement Description |
 |--------------------------|----------------------|-------------|--------------------------|
@@ -83,7 +83,7 @@ dg-publish: true
 
 ## 📊 Results & Key Findings
 
-### **Key Findings:**
+### Key Findings:
 
 - **Toddlers later identified with Autism+ADHD showed the most severe behavioral difficulties.**
 - **Autism+ADHD group exhibited higher externalizing & internalizing behaviors than Autism-only or ADHD-only groups.**
@@ -93,7 +93,7 @@ dg-publish: true
     - **Boys had higher Autism and ADHD scores.**
     - **Girls had lower reported ADHD and Autism symptoms.**
 
-### **Implications for the Project**
+### Implications for the Project
 
 - **Supports the need for early, dual screening for both ASD and ADHD.**
 - **Emphasizes the importance of parent-reported measures in early identification.**
@@ -108,7 +108,7 @@ dg-publish: true
 
 ## 📝 Observations
 
-### **Strengths of the Study**
+### Strengths of the Study
 
 ✅ **Large sample size (506 toddlers), diverse racial and socioeconomic representation.**  
 ✅ **Use of longitudinal data increases reliability of findings.**  
@@ -116,7 +116,7 @@ dg-publish: true
 ✅ **Incorporates real-world clinical data from electronic health records (EHR).**  
 ✅ **First study to track early ADHD symptoms in toddlers later diagnosed with Autism+ADHD.**
 
-### **Major Concerns and Challenges**
+### Major Concerns and Challenges
 
 ⚠ **Parent-reported data may introduce bias**
 
