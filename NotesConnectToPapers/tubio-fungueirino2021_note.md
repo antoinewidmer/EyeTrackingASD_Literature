@@ -1,5 +1,6 @@
 ---
 citekey: tubio-fungueirino2021
+dg-publish: true
 ---
 
 

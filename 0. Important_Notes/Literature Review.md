@@ -17,6 +17,8 @@ dg-home: true
 - [[Summary of Participant Characteristics]]
 
 - [[Female Detection Bias]]
+- [[Training skills for ASD in XR]]
+- [[Stratification of ASD phenotypes]]
 
 
 ### other research groups

@@ -6,8 +6,13 @@ citekey: tubio-fungueirino2021
 journal: Journal of Autism and Developmental Disorders
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-020-04695-x
-PdfZoteroLink : zotero://select/library/items/N7U5VXZC
-tags: Autism, Systematic review, Camouflage, Females
+PdfZoteroLink: zotero://select/library/items/N7U5VXZC
+tags:
+  - Autism
+  - Systematic
+  - review
+  - Camouflage
+  - Females
 category:
   main: 
   sub: 
@@ -20,12 +25,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## Social Camouflaging in Females with Autism Spectrum Disorder: A Systematic Review
