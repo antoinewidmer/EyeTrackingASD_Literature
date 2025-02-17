@@ -19,6 +19,7 @@ dg-home: true
 - [[Female Detection Bias]]
 - [[Training skills for ASD in XR]]
 - [[Stratification of ASD phenotypes]]
+- [[Using VR for ASD detection]]
 
 
 ### other research groups
