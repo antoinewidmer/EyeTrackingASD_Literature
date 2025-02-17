@@ -26,6 +26,7 @@ dg-home: true
 - [[Autism research - Duke]]
 - [[Autism research - IDIAP]]
 - [[Autism research - UNIGE]]
+- [[Autism research - UCLA]]
 
 
 
