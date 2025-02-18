@@ -1,13 +1,20 @@
 ---
-title: {{title}}
-authors: {{authors}}
-published: {{date | format("YYYY")}}
-citekey: {{citekey}}
-journal: {{publicationTitle}}
-Paper_type: {{itemType}}
+title:
+  "{ title }": 
+authors:
+  "{ authors }": 
+published:
+  "{ date | format(\"YYYY\") }": 
+citekey:
+  "{ citekey }": 
+journal:
+  "{ publicationTitle }": 
+Paper_type:
+  "{ itemType }": 
 DOI: https://www.doi.org/{{DOI}}
-PdfZoteroLink : {{desktopURI}}
-tags: {{allTags}}
+PdfZoteroLink:
+  "{ desktopURI }": 
+tags: 
 category:
   main: 
   sub: 
@@ -20,12 +27,13 @@ Participants:
   ASD_girls: 
   TD_boys: 
   TD_girls: 
-cited_papers:
+cited_papers: 
 citing_papers: 
 other_connected_paper: 
 read_on: 
 code_repo: 
-dataset:
+dataset: 
+dg-publish: true
 ---
 
 ## {{title}}
@@ -66,7 +74,7 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
-[[{{citeykey}}_notes]]
+
 
 ## Figures
 

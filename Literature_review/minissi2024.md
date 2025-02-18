@@ -75,7 +75,7 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
-[[_notes]]
+![[minissi2024_notes]]
 
 ## Figures
 
@@ -88,3 +88,6 @@ WHERE contains(file.name, this.citekey)
 > ![[Images/minissi2024/image-5-x79-y114.png]]
 
 > ![[Images/minissi2024/image-7-x303-y411.png]]
+
+
+kl

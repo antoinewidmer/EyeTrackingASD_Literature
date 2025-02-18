@@ -24,6 +24,7 @@ dg-home: true
 
 ### other research groups
 
+- [[Autism research - Introduction]]
 - [[Autism research - Duke]]
 - [[Autism research - IDIAP]]
 - [[Autism research - UNIGE]]
