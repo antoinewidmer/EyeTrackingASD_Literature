@@ -1,19 +1,19 @@
 ---
-title:
-  "{ title }": 
-authors:
-  "{ authors }": 
-published:
-  "{ date | format(\"YYYY\") }": 
+title: Sex differences in social brain neural responses in autism temporal profiles of configural face-processing within data-driven time windows
+authors: Teresa Del Bianco, Meng-Chuan Lai, Luke Mason, Mark H. Johnson, Tony Charman, Eva Loth, Tobias Banaschewski, Jan Buitelaar, Declan G. M. Murphy, Emily J. H. Jones
+published: 2024
 citekey: delbianco2024
-journal:
-  "{ publicationTitle }": 
-Paper_type:
-  "{ itemType }": 
+journal: Scientific Reports
+Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41598-024-64387-9
-PdfZoteroLink:
-  "{ desktopURI }": 
-tags: 
+PdfZoteroLink: zotero://select/library/items/3HJP5GHY
+tags:
+  - Human
+  - behaviour
+  - Social
+  - behaviour
+  - Female
+  - cambridge
 category:
   main: 
   sub: 
@@ -33,6 +33,7 @@ read_on:
 code_repo: 
 dataset: 
 dg-publish: true
+researchgroup: cambridge
 ---
 
 ## Sex differences in social brain neural responses in autism: temporal profiles of configural face-processing within data-driven time windows
@@ -69,7 +70,7 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
-
+![[delbianco2024_notes]]
 
 ## Figures
 

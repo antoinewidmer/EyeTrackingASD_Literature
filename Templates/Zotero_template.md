@@ -1,13 +1,13 @@
 ---
-title: {{title}}
-authors: {{authors}}
-published: {{date | format("YYYY")}}
-citekey: {{citekey}} 
-journal: {{publicationTitle}}
-Paper_type: {{itemType}}
+title: {{ title }} 
+authors: {{ authors }} 
+published: {{ date | format("YYYY") }} 
+citekey: {{ citekey }} 
+journal: {{ publicationTitle }} 
+Paper_type: {{ itemType }} 
 DOI: https://www.doi.org/{{DOI}}
-PdfZoteroLink : {{desktopURI}}
-tags: {{allTags}}
+PdfZoteroLink: {{ desktopURI }} 
+tags: {{alltags}}
 category:
   main: 
   sub: 
@@ -27,6 +27,7 @@ read_on:
 code_repo: 
 dataset: 
 dg-publish: true
+researchgroup:
 ---
 
 ## {{title}}
