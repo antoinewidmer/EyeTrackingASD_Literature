@@ -1,20 +1,13 @@
 ---
-title:
-  "{ title }": 
-authors:
-  "{ authors }": 
-published:
-  "{ date | format(\"YYYY\") }": 
-citekey:
-  "{ citekey }": 
-journal:
-  "{ publicationTitle }": 
-Paper_type:
-  "{ itemType }": 
+title: {{title}}
+authors: {{authors}}
+published: {{date | format("YYYY")}}
+citekey: {{citekey}} 
+journal: {{publicationTitle}}
+Paper_type: {{itemType}}
 DOI: https://www.doi.org/{{DOI}}
-PdfZoteroLink:
-  "{ desktopURI }": 
-tags: 
+PdfZoteroLink : {{desktopURI}}
+tags: {{allTags}}
 category:
   main: 
   sub: 

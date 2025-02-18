@@ -8,6 +8,4 @@ dg-publish: true
 
 ## Articles
 
-[[robles2022]]
-
-[[liu2024]]
+![[cerasuolo2025_table]]
