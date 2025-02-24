@@ -34,7 +34,7 @@ code_repo:
 dataset: 
 dg-publish: true
 researchgroup:
-  - SEMEL
+  - UCLA
 ---
 
 ## Measuring Changes in Social Communication Behaviors: Preliminary Development of the Brief Observation of Social Communication Change (BOSCC)

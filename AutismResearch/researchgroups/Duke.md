@@ -32,6 +32,13 @@ SORT published desc
 
 ### Applications
 
+```dataview 
+TABLE 
+title
+FROM "AutismResearch/ExistingApp"
+WHERE contains(researchgroup, "duke")
+SORT published desc 
+```
 
 
 ## Interesting Grants

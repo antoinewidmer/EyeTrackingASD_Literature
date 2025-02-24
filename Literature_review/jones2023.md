@@ -31,6 +31,8 @@ dataset:
 dg-publish: true
 relatedApp:
   - earlipoint
+researchgroup:
+  - marcus
 ---
 
 ## Eye-Tracking–Based Measurement of Social Visual Engagement Compared With Expert Clinical Diagnosis of Autism

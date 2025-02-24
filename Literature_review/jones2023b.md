@@ -15,7 +15,8 @@ read_on: 2025-02-24 13:13
 code_repo: 
 dataset: 
 dg-publish: true
-researchgroup: 
+researchgroup:
+  - marcus
 relatedApp:
   - earlipoint
 ---

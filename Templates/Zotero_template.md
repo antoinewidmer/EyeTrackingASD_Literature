@@ -1,25 +1,17 @@
 ---
-title:
-  "{ title }": 
-authors:
-  "{ authors }": 
-published:
-  "{ date | format(\"YYYY\") }": 
-citekey:
-  "{ citekey }": 
-journal:
-  "{ publicationTitle }": 
-Paper_type:
-  "{ itemType }": 
+title: {{ title }} 
+authors: {{ authors }}
+published: {{ date | format("YYYY") }} 
+citekey: {{ citekey }}
+journal: {{ publicationTitle }}
+Paper_type: {{ itemType }}
 DOI: https://www.doi.org/{{DOI}}
-PdfZoteroLink:
-  "{ desktopURI }": 
+PdfZoteroLink: {{ desktopURI }} 
 tags: 
 cited_papers: 
 citing_papers: 
 other_connected_paper: 
-read_on:
-  "{ dateAdded | format(\"YYYY-MM-DD HH:mm\") }": 
+read_on: {{ dateAdded | format("YYYY-MM-DD HH:mm") }}
 code_repo: 
 dataset: 
 dg-publish: true

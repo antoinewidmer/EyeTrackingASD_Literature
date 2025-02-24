@@ -5,7 +5,8 @@ LeadResearcher: Catherine Lord
 KeyFocus: 
 Website: https://www.semel.ucla.edu/autism
 dg-publish: true
-researchgroup: SEMEL
+researchgroup:
+  - UCLA
 ---
 
 [Autism | Semel Institute for Neuroscience and Human Behavior](https://www.semel.ucla.edu/autism)
@@ -20,6 +21,6 @@ journal,
 Paper_type,
 DOI
 FROM "Literature_review"
-WHERE contains(researchgroup, "SEMEL")
+WHERE contains(researchgroup, "UCLA")
 SORT published desc 
 ```
