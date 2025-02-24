@@ -37,6 +37,7 @@ dataset:
 dg-publish: true
 researchgroup:
   - duke
+relatedApp: SenseToKnow
 ---
 
 ## Relationship between quantitative digital behavioral features and clinical profiles in young autistic children

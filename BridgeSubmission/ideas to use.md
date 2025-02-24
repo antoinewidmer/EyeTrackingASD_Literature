@@ -24,7 +24,7 @@ Biomarkers
 
 current state-of-art approaches use
 - fixed images with and without faces
-- small movies with human interactions
+- small movies with human interactions and object in the background
 
 ### Existing tools
 
@@ -57,4 +57,4 @@ developed by UCSF
 
 
 
-
+[[washington2023a]]

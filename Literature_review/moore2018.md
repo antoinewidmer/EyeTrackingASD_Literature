@@ -17,6 +17,8 @@ dataset:
 dg-publish: true
 researchgroup:
   - UCSD
+relatedApp:
+  - GeoPref
 ---
 
 ## The geometric preference subtype in ASD: identifying a consistent, early-emerging phenomenon through eye tracking
@@ -53,7 +55,7 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
-
+![[moore2018_notes]]
 
 ## Figures
 

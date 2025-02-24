@@ -30,6 +30,9 @@ read_on:
 code_repo: 
 dataset: 
 dg-publish: true
+researchgroup:
+  - duke
+relatedApp: SenseToKnow
 ---
 
 ## Digital Phenotyping based on a Mobile App Identifies Distinct and Overlapping Features in Children Diagnosed with Autism versus ADHD

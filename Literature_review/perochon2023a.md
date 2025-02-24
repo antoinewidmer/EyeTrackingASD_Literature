@@ -31,6 +31,9 @@ read_on:
 code_repo: 
 dataset: 
 dg-publish: true
+relatedApp: SenseToKnow
+researchgroup:
+  - duke
 ---
 
 ## Early detection of autism using digital behavioral phenotyping
