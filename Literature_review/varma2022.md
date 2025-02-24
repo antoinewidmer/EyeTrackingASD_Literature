@@ -9,54 +9,10 @@ DOI: https://www.doi.org/10.2196/31830
 PdfZoteroLink: zotero://select/library/items/FKBUYF6N
 tags:
   - Autism
-  - Spectrum
-  - Disorder
-  - autism
   - gaze
   - Child
-  - Humans
-  - autism
-  - spectrum
-  - disorder
-  - app
-  - computer
-  - vision
-  - Computers
-  - Handheld
-  - diagnostic
-  - engagement
-  - Fixation
-  - Ocular
-  - gaming
-  - insight
-  - Mobile
-  - Applications
-  - mobile
-  - diagnostics
-  - mobile
-  - health
-  - pattern
-  - pattern
-  - recognition
-  - Social
-  - Participation
-  - social
-  - phenotyping
-  - video
-  - vision
+  - computervision
   - EyeTracking
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

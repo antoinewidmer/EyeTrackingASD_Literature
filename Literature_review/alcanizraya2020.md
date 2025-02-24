@@ -8,29 +8,9 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.3389/fnhum.2020.00090
 PdfZoteroLink: zotero://select/library/items/YQASQFGP
 tags:
-  - virtual
-  - reality
+  - virtualreality
   - Autism
-  - Spectrum
-  - Disorder
-  - assessment
-  - Electro
-  - dermal
-  - activity
-  - sensorial
-  - dysfunctions
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
+  - Electrodermal
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

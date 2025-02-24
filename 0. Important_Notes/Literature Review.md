@@ -20,16 +20,15 @@ dg-home: true
 - [[Training skills for ASD in XR]]
 - [[Stratification of ASD phenotypes]]
 - [[Using VR for ASD detection]]
+- [[ASD Classification]]
+- [[Screening and diagnostic measures for ASD]]
 
 
-### other research groups
 
-- [[Autism research - Introduction]]
-- [[Autism research - Duke]]
-- [[Autism research - IDIAP]]
-- [[Autism research - UNIGE]]
-- [[Autism research - UCLA]]
-- [[Autism research - Cambridge]]
+### Research groups and projects
+
+- [[00 Research groups]]
+- [[01 Research projects]]
 
 
 

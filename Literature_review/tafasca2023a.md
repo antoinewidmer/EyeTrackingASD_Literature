@@ -8,7 +8,7 @@ Paper_type: conferencePaper
 DOI: https://www.doi.org/10.1145/3610661.3616239
 PdfZoteroLink: zotero://select/library/items/UJJPLL4Y
 tags:
-  - ASD
+  - autism
   - EyeTracking
 category:
   main: 

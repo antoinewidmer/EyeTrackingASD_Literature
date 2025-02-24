@@ -8,18 +8,6 @@ Paper_type: {{ itemType }}
 DOI: https://www.doi.org/{{DOI}}
 PdfZoteroLink: {{ desktopURI }} 
 tags: {{alltags}}
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

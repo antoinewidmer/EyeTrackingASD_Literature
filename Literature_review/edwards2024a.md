@@ -9,18 +9,11 @@ DOI: https://www.doi.org/10.1111/jcpp.13855
 PdfZoteroLink: zotero://select/library/items/UE9QJTEA
 tags:
   - Autism
-  - gender
-  - differences
-  - meta-analysis
-  - restricted
-  - and
-  - repetitive
-  - behaviours
-  - and
-  - interests
+  - Gender
+  - Female
+  - GenderDifferences
+  - RRB
   - sex
-  - differences
-  - systematic
   - review
 category:
   main: 

@@ -9,15 +9,8 @@ DOI: https://www.doi.org/10.1007/s00787-022-01998-5
 PdfZoteroLink: zotero://select/library/items/C9ACX5LX
 tags:
   - Diagnosis
-  - Autistic
-  - spectrum
-  - disorder
-  - Circumscribed
-  - interests
-  - Girl
-  - Restricted
-  - interests
-  - Women
+  - Autism
+  - female
 category:
   main: 
   sub: 

@@ -28,6 +28,8 @@ read_on:
 code_repo: 
 dataset: 
 dg-publish: true
+researchgroup:
+  - cambridge
 ---
 
 ## Large-scale Validation of a Scalable and Portable Behavioral Digital Screening Tool for Autism at Home

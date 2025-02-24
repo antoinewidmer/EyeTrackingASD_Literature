@@ -13,10 +13,7 @@ tags:
   - Endophenotype
   - Neurodevelopment
   - Oculomotor
-  - Control
-  - obsidian
   - EyeTracking
-  - ASD
 category:
   main: 
   sub: 

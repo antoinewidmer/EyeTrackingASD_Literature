@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"1c704e498f1ff7c0","type":"group","x":-1140,"y":-1820,"width":1080,"height":520,"label":"research groups"},
+		{"id":"033db1adafe3016e","type":"file","file":"AutismResearch/researchgroups/KIND.md","x":-980,"y":-1720,"width":360,"height":320},
+		{"id":"e202b65c6d9394fd","type":"file","file":"AutismResearch/researchgroups/Cambridge.md","x":-520,"y":-1720,"width":420,"height":320}
+	],
+	"edges":[]
+}

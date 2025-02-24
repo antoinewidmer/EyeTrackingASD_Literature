@@ -8,15 +8,9 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-021-05338-5
 PdfZoteroLink: zotero://select/library/items/6UZ2N8B6
 tags:
-  - Augmented
-  - reality
-  - Virtual
-  - reality
+  - VirtualReality
   - Autism
-  - spectrum
-  - disorder
-  - Social
-  - skills
+  - SocialSkills
   - literRevTSASDXR
 category:
   main: 

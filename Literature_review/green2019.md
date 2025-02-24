@@ -8,13 +8,8 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s11920-019-1006-3
 PdfZoteroLink: zotero://select/library/items/IT2G3DUL
 tags:
-  - ASD
   - Autism
-  - spectrum
-  - disorder
   - Female
-  - Women
-  - Adults
 category:
   main: 
   sub: 
@@ -70,7 +65,7 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
-[[_notes]]
+![[green2019_notes]]
 
 ## Figures
 

@@ -8,10 +8,8 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-010-1024-9
 PdfZoteroLink: zotero://select/library/items/T945DK6E
 tags:
+  - autism
   - Psychometrics
-  - Assessment
-  - Diagnostics
-  - PDD
   - Screening;
   - Questionnaire
 category:
@@ -33,6 +31,7 @@ read_on:
 code_repo: 
 dataset: 
 dg-publish: true
+researchgroup: KIND
 ---
 
 ## Autistic Traits and Autism Spectrum Disorders: The Clinical Validity of Two Measures Presuming a Continuum of Social Communication Skills

@@ -8,20 +8,8 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1016/j.bpsc.2024.08.017
 PdfZoteroLink: zotero://select/library/items/RXCIV84Y
 tags:
-  - Eye
-  - tracking
-  - Autism
-  - spectrum
-  - disorder
-  - HMM
-  - Markov
-  - models
-  - Visual
-  - attention
-  - Visual
-  - search
   - EyeTracking
-  - ASD
+  - Autism
 category:
   main: 
   sub: 
@@ -41,6 +29,9 @@ read_on:
 code_repo: 
 dataset: 
 dg-publish: true
+researchgroup:
+  - cambridge;
+  - yale
 ---
 
 ## Spatiotemporal Eye Movement Dynamics Reveal Altered Face Prioritization in Early Visual Processing Among Autistic Children

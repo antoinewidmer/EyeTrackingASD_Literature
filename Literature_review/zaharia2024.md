@@ -8,17 +8,9 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-024-06504-1
 PdfZoteroLink: zotero://select/library/items/GAW2AYYP
 tags:
-  - Eye-tracking
   - Autism
-  - spectrum
-  - disorder
   - Neurodevelopmental
-  - Disorders
   - Baby
-  - schema
-  - Cuteness
-  - Social
-  - affect
   - EyeTracking
 category:
   main: 

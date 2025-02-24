@@ -9,39 +9,7 @@ DOI: https://www.doi.org/10.1109/SSITCON62437.2024.10796968
 PdfZoteroLink: zotero://select/library/items/28R2VAX5
 tags:
   - Autism
-  - Standards
-  - Feature
-  - extraction
-  - Predictive
-  - models
-  - Support
-  - vector
-  - machines
-  - autism
-  - spectrum
-  - disorder
-  - Biological
-  - system
-  - modeling
-  - Boosting
-  - early
-  - prediction
-  - extreme
-  - gradient
-  - boosting-logistic
-  - regression
-  - Logistic
-  - regression
-  - Overfitting
-  - recursive
-  - feature
-  - elimination
-  - synthetic
-  - minority
-  - over-sampling
-  - technique
-  - Transfer
-  - learning
+  - TransferLearning
 category:
   main: 
   sub: 

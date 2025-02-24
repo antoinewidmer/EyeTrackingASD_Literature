@@ -8,34 +8,8 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10639-023-11862-x
 PdfZoteroLink: zotero://select/library/items/Q4VK9HHK
 tags:
-  - Virtual
-  - reality
-  - Autism
-  - spectrum
-  - disorder
-  - Communicational
-  - skills
-  - Digital
-  - Education
-  - and
-  - Educational
-  - Technology
-  - Immersive
-  - systems
-  - Social
-  - interaction
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
+  - VirtualReality
+  - AutismSpectrum
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

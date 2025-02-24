@@ -8,8 +8,7 @@ Paper_type: conferencePaper
 DOI: https://www.doi.org/10.1145/3672539.3686323
 PdfZoteroLink: zotero://select/library/items/GHSAFDL2
 tags:
-  - ASD
-  - mobile
+  - autism
   - ADHD
   - EyeTracking
 category:

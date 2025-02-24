@@ -8,11 +8,8 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-025-06741-y
 PdfZoteroLink: zotero://select/library/items/TSSUPWJU
 tags:
-  - Virtual
-  - reality
+  - VirtualReality
   - Autism
-  - spectrum
-  - disorder
   - Intervention
   - Social
   - skills

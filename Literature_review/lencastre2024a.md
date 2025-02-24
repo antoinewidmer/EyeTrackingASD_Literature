@@ -9,15 +9,8 @@ DOI: https://www.doi.org/10.3390/diagnostics14101047
 PdfZoteroLink: zotero://select/library/items/MTUHJTLJ
 tags:
   - autism
-  - AI
-  - eye-tracking
-  - autism
   - diagnosis
-  - eye
   - gaze
-  - dynamics
-  - intelligent
-  - health
   - EyeTracking
 category:
   main: 

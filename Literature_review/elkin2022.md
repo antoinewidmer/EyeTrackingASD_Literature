@@ -8,15 +8,10 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.3390/brainsci12111568
 PdfZoteroLink: zotero://select/library/items/XH28NMCQ
 tags:
-  - virtual
-  - reality
-  - eye
-  - tracking
-  - social
-  - skills
+  - VirtualReality
+  - EyeTracking
+  - socialskills
   - autism
-  - spectrum
-  - disorder
   - TSASDtoread
 category:
   main: 

@@ -1,5 +1,3 @@
-
-
 ```dataview 
 TABLE
 title, 
@@ -8,6 +6,6 @@ journal,
 Paper_type,
 DOI
 FROM "Literature_review"
-WHERE contains(researchgroup, "cambridge")
+WHERE toProcess=True
 SORT published desc 
 ```

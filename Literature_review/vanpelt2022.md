@@ -8,21 +8,9 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1016/j.rasd.2022.102003
 PdfZoteroLink: zotero://select/library/items/393I4FRV
 tags:
-  - Virtual
-  - reality
+  - VirtualReality
   - Autism
-  - spectrum
-  - disorder
-  - Emotion
-  - perception
-  - Social
-  - cognition
-  - training
-  - Social
-  - functioning
-  - Theory
-  - of
-  - mind
+  - TheoryofMind
 category:
   main: 
   sub: 

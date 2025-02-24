@@ -8,7 +8,7 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1016/j.ibmed.2022.100056
 PdfZoteroLink: zotero://select/library/items/Z7R355YA
 tags:
-  - ASD
+  - autism
 category:
   main: 
   sub: 

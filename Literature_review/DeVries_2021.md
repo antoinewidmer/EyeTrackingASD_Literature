@@ -6,21 +6,9 @@ journal:
 Paper_type: systematic_review
 tags:
   - systematic_review
-  - ASD
+  - autism
   - EyeTracking
 DOI: https://doi.org/10.1016/j.neubiorev.2020.09.032
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

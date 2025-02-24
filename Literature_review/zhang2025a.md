@@ -9,29 +9,9 @@ DOI: https://www.doi.org/10.1109/JBHI.2025.3531421
 PdfZoteroLink: zotero://select/library/items/2S9QDGWZ
 tags:
   - Autism
-  - human-computer
-  - interaction
-  - eye
-  - tracking
-  - Gaze
-  - tracking
-  - Emotion
-  - recognition
-  - Visualization
-  - Games
-  - Protocols
-  - Cognition
-  - Biomarkers
-  - autism
-  - spectrum
-  - disorder
-  - Bioinformatics
-  - cognitive
-  - assessment
-  - Magnetic
-  - heads
-  - obsidian
   - EyeTracking
+  - Gaze
+  - EmotionRecognition
 category:
   main: 
   sub: 

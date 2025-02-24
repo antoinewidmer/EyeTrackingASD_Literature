@@ -7,19 +7,11 @@ journal: Frontiers in Psychology
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.3389/fpsyg.2022.869452
 PdfZoteroLink : zotero://select/library/items/2XBZ3S3I
-tags: emotion recognition, Eye-tracking, Autism spectrum disorder (ASD), Facial expression processing, service dog
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
+tags: 
+  - emotionRecognition
+  - Eye-tracking
+  - Autism
+  - FacialExpression
 cited_papers:
 citing_papers: 
 other_connected_paper: 

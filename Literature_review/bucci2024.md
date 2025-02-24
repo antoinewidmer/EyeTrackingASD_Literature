@@ -10,18 +10,10 @@ PdfZoteroLink: zotero://select/library/items/5BAZLUMX
 tags:
   - Children
   - Neurodevelopmental
-  - Disorders
-  - Cerebellum
-  - Eye
   - movements
-  - Frontal
-  - eye
-  - filed
-  - Neurodevelopment
-  - disorders
   - Postural
-  - control
   - EyeTracking
+  - BodyTracking
 category:
   main: 
   sub: 

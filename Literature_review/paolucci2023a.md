@@ -9,7 +9,7 @@ DOI: https://www.doi.org/10.1016/j.chb.2023.107877
 PdfZoteroLink: zotero://select/library/items/GDN2EEA9)
 tags:
   - BodyTracking
-  - ASD
+  - autism
 category:
   main: 
   sub: 

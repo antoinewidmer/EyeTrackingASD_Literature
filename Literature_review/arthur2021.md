@@ -9,14 +9,9 @@ DOI: https://www.doi.org/10.1038/s41598-021-99864-y
 PdfZoteroLink: zotero://select/library/items/NMSRG37U
 tags:
   - Autism
-  - spectrum
-  - disorders
-  - Motor
-  - control
   - Oculomotor
-  - system
   - Sensorimotor
-  - processing
+  - virtualreality
 category:
   main: 
   sub: 

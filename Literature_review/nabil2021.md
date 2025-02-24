@@ -9,25 +9,6 @@ DOI: https://www.doi.org/10.1177/1460458221991882
 PdfZoteroLink: zotero://select/library/items/686F2T5Q
 tags:
   - Autism
-  - Spectrum
-  - Disorder
-  - autism
-  - screening
-  - machine
-  - learning
-  - Autistic
-  - Disorder
-  - Humans
-  - Machine
-  - Learning
-  - diagnosis
-  - Early
-  - Diagnosis
-  - feature
-  - selection
-  - Support
-  - Vector
-  - Machine
   - BodyTracking
 category:
   main: 

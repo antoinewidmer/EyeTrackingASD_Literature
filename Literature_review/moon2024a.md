@@ -8,18 +8,9 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.25304/rlt.v32.3129
 PdfZoteroLink: zotero://select/library/items/EF56F432
 tags:
-  - social
-  - skills
+  - socialskills
   - autism
-  - spectrum
-  - disorder
-  - learning
-  - experience
-  - design
-  - verbal
-  - prompts
-  - virtual
-  - world
+  - virtualreality
 category:
   main: 
   sub: 

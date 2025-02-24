@@ -8,21 +8,8 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.3390/bs13040336
 PdfZoteroLink: zotero://select/library/items/FU8BJN2I
 tags:
-  - virtual
-  - reality
-  - training
+  - VirtualReality
   - autism
-  - acceptability
-  - executive
-  - functions
-  - prompts
-  - social
-  - cognition
-  - social
-  - skills
-  - usability
-  - user
-  - experience
   - TSASDtoread
 category:
   main: 

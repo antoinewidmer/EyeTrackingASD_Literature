@@ -8,27 +8,10 @@ Paper_type: review
 DOI: https://www.doi.org/10.48550/arXiv.2104.12668
 PdfZoteroLink: zotero://select/library/items/TFNNHQTM
 tags:
-  - Computer
-  - Science
-  - "-"
-  - Computer
-  - Vision
-  - and
-  - Pattern
-  - Recognition
+  - ComputerScience
+  - ComputerVision
+  - PatternRecognition
   - EyeTracking
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

@@ -9,14 +9,10 @@ DOI: https://www.doi.org/10.1016/j.ncl.2022.10.006
 PdfZoteroLink: zotero://select/library/items/U2E45WG3
 tags:
   - Autism
-  - spectrum
-  - disorder
   - Male
   - bias
   - Female
-  - autism
   - Sex
-  - differences
 category:
   main: 
   sub: 

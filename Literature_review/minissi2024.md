@@ -8,19 +8,10 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1016/j.compbiomed.2024.108194
 PdfZoteroLink: zotero://select/library/items/HFAMXDMM
 tags:
-  - Virtual
-  - reality
+  - Virtualreality
   - Autism
-  - spectrum
-  - disorder
-  - Eye
+  - EyeTracking
   - movements
-  - Biosignal
-  - Motor
-  - skills
-  - Statistical
-  - machine
-  - learning
 category:
   main: 
   sub: 

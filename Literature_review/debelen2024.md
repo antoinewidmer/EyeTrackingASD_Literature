@@ -9,19 +9,8 @@ DOI: https://www.doi.org/10.1371/journal.pone.0282818
 PdfZoteroLink: zotero://select/library/items/N47K9PF7
 tags:
   - Autism
-  - Spectrum
-  - Disorder
-  - Humans
-  - Algorithms
-  - Child
-  - Preschool
-  - Machine
-  - Learning
-  - ROC
-  - Curve
-  - Videotape
-  - Recording
   - EyeTracking
+  - BodyTracking
 category:
   main: 
   sub: 

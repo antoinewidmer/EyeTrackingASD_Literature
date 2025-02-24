@@ -8,14 +8,10 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41746-022-00598-6
 PdfZoteroLink: zotero://select/library/items/8I7C3RFL
 tags:
-  - Machine
   - learning
   - Autism
-  - spectrum
-  - disorders
   - Diagnosis
   - Paediatric
-  - research
 category:
   main: 
   sub: 

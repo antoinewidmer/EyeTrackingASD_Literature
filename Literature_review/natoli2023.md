@@ -10,16 +10,10 @@ PdfZoteroLink: zotero://select/library/items/66QX2WIZ
 tags:
   - Autism
   - Sex
-  - differences
-  - Core
   - Autism
-  - features
-  - Early
   - Childhood
-  - Restricted
-  - and
-  - Repetitive
-  - Behaviours
+  - RRB
+  - Female
 category:
   main: 
   sub: 

@@ -11,7 +11,7 @@ tags:
   - Human
   - behaviour
   - Psychology
-  - "#mediapipe"
+  - mediapipe
 category:
   main: 
   sub: 

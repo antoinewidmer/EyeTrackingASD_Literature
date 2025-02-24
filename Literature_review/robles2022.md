@@ -8,36 +8,11 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1109/TVCG.2022.3150489
 PdfZoteroLink: zotero://select/library/items/XSKDIICM
 tags:
-  - Virtual
-  - reality
-  - Machine
-  - learning
+  - VirtualReality
   - Autism
-  - autism
-  - Three-dimensional
-  - displays
-  - machine
-  - learning
-  - Virtual
-  - environments
+  - ML
   - Avatars
   - diagnosis
-  - Reliability
-  - embodiment
-  - agents
-  - Tutorials
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

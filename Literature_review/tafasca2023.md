@@ -8,27 +8,9 @@ Paper_type: preprint
 DOI: https://www.doi.org/10.48550/arXiv.2307.01630
 PdfZoteroLink: zotero://select/library/items/2DMT2Z9Z
 tags:
-  - Computer
-  - Science
-  - "-"
-  - Computer
-  - Vision
-  - and
-  - Pattern
-  - Recognition
+  - ComputerVision
+  - PatternRecognition
   - EyeTracking
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

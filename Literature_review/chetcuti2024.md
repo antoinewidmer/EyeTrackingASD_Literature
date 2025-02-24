@@ -8,9 +8,7 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41598-024-55643-z
 PdfZoteroLink: zotero://select/library/items/U7I4VI9K
 tags:
-  - Disability
-  - Risk
-  - factors
+  - autism
   - EyeTracking
 category:
   main: 

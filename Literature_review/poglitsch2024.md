@@ -8,19 +8,9 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1016/j.cag.2024.103942
 PdfZoteroLink: zotero://select/library/items/6RYAD8CR
 tags:
-  - Virtual
-  - reality
-  - Emotion
-  - recognition
+  - VirtualReality
+  - Emotionrecognition
   - Autism
-  - spectrum
-  - disorder
-  - Augmented
-  - reality
-  - Emotional
-  - skills
-  - Extended
-  - reality
   - literRevTSASDXR
 category:
   main: 

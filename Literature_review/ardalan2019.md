@@ -9,13 +9,7 @@ DOI: https://www.doi.org/10.1038/s41598-019-56362-6
 PdfZoteroLink: zotero://select/library/items/Q85M6AUH
 tags:
   - Autism
-  - spectrum
-  - disorders
-  - Human
-  - behaviour
-  - Motor
-  - control
-  - ASD
+  - bodytracking
 category:
   main: 
   sub: 

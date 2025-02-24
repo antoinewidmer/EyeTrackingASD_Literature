@@ -8,32 +8,9 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-022-05523-0
 PdfZoteroLink: zotero://select/library/items/P36VGQSB
 tags:
-  - Virtual
-  - reality
+  - VirtualReality
   - Autism
-  - spectrum
-  - disorder
-  - Neurodevelopmental
-  - Disorders
-  - Postural
-  - control
-  - Movement
-  - Motor
-  - skills
-  - Balance
-  - Kinematics
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
+  - BodyTracking
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

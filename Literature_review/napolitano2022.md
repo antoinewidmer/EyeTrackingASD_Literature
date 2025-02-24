@@ -9,12 +9,8 @@ DOI: https://www.doi.org/10.3389/fpsyt.2022.889636
 PdfZoteroLink: zotero://select/library/items/2F3VJSPH
 tags:
   - autism
-  - Animal
-  - Models
   - gender
-  - imaging
-  - Neurobiological
-  - mechanism
+  - Female
 category:
   main: 
   sub: 

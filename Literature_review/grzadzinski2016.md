@@ -9,28 +9,9 @@ DOI: https://www.doi.org/10.1007/s10803-016-2782-9
 PdfZoteroLink: zotero://select/library/items/QHC7MSWC
 tags:
   - Autism
-  - Autism
-  - spectrum
-  - disorder
-  - Social
-  - communication
-  - Autism
   - Diagnostic
-  - Observation
-  - Schedule
-  - Brief
-  - Observation
-  - of
-  - Social
-  - Communication
-  - Change
   - Preschoolers
-  - Restricted
-  - and
-  - Repetitive
-  - Behaviors
-  - and
-  - Interests
+  - RRB
   - Toddlers
   - stratification
 category:
@@ -52,6 +33,8 @@ read_on:
 code_repo: 
 dataset: 
 dg-publish: true
+researchgroup:
+  - SEMEL
 ---
 
 ## Measuring Changes in Social Communication Behaviors: Preliminary Development of the Brief Observation of Social Communication Change (BOSCC)

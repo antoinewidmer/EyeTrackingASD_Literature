@@ -9,20 +9,7 @@ DOI: https://www.doi.org/10.1007/s10803-023-06021-7
 PdfZoteroLink: zotero://select/library/items/WQ9BD9W4
 tags:
   - Autism
-  - spectrum
-  - disorder
-  - Adaptivity
-  - design
-  - Educational
-  - data
-  - mining
-  - Learning
-  - analytics
-  - Verbal
-  - prompt
-  - Virtual
-  - reality-based
-  - training
+  - VirtualReality
 category:
   main: 
   sub: 

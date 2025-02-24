@@ -8,17 +8,7 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.7554/eLife.85623
 PdfZoteroLink: zotero://select/library/items/YBKVZQCT
 tags:
-  - eye-tracking
   - autism
-  - spectrum
-  - disorders
-  - developmental
-  - trajectories
-  - divergence
-  - longitudinal
-  - prediction
-  - of
-  - symptomatology
   - EyeTracking
 category:
   main: 

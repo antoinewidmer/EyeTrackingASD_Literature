@@ -10,7 +10,7 @@ PdfZoteroLink: zotero://select/library/items/49L76AZY
 tags:
   - obsidian
   - EyeTracking
-  - ASD
+  - autism
 category:
   main: 
   sub: 

@@ -9,24 +9,11 @@ DOI: https://www.doi.org/10.3390/s17010046
 PdfZoteroLink: zotero://select/library/items/V6PARCE4
 tags:
   - Autism
-  - Spectrum
-  - Disorder
   - Electrodermal
-  - Activity
-  - Monitors
-  - Eye
-  - Trackers
+  - EyeTracking
   - Movement
-  - Trackers
   - Prosody
-  - And
   - Speech
-  - Detectors
-  - Sleep
-  - Quality
-  - Assessment
-  - Social
-  - Robotics
   - Tactile
   - Sensing
 category:

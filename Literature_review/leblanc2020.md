@@ -8,14 +8,9 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1038/s41598-020-76874-w
 PdfZoteroLink: zotero://select/library/items/6BTXXE8H
 tags:
-  - Machine
-  - learning
+  - Machinelearning
+  - homevideo
   - Autism
-  - spectrum
-  - disorders
-  - Paediatric
-  - research
-  - ASD
 category:
   main: 
   sub: 

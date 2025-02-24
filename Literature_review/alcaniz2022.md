@@ -8,20 +8,11 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1002/aur.2636
 PdfZoteroLink: zotero://select/library/items/FIAXCKKZ
 tags:
-  - virtual
-  - reality
-  - eye
-  - tracking
-  - machine
-  - learning
+  - VirtualReality
+  - EyeTracking
   - autism
-  - spectrum
-  - disorder
-  - behavioral
   - biomarker
-  - multivariate
-  - supervised
-  - learning
+  - supervisedlearning
 category:
   main: 
   sub: 

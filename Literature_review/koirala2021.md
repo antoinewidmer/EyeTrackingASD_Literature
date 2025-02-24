@@ -8,37 +8,10 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1109/TNSRE.2021.3064148
 PdfZoteroLink: zotero://select/library/items/X6C4LCV3
 tags:
-  - virtual
-  - reality
-  - Three-dimensional
-  - displays
+  - virtualreality
   - Autism
-  - spectrum
-  - disorder
-  - Visualization
-  - Games
-  - Variable
-  - speed
-  - drives
   - Painting
   - Robot
-  - sensing
-  - systems
-  - Sensitivity
-  - sensory
-  - assessment
-category:
-  main: 
-  sub: 
-device:
-  Type: 
-  sampling_rate: 
-Participants:
-  Total: 
-  ASD_boys: 
-  ASD_girls: 
-  TD_boys: 
-  TD_girls: 
 cited_papers: 
 citing_papers: 
 other_connected_paper: 

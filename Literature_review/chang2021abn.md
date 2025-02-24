@@ -10,8 +10,8 @@ PdfZoteroLink: zotero://select/library/items/PE5DSKR8
 tags:
   - EyeTracking
   - EyeTracking/Gaze
-  - "#toddler"
-  - ASD
+  - toddlers
+  - autism
 category:
   main: 
   sub: 

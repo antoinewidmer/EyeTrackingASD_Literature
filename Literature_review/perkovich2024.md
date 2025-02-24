@@ -9,14 +9,7 @@ DOI: https://www.doi.org/10.1186/s11689-024-09524-1
 PdfZoteroLink: zotero://select/library/items/FTSXHCXV
 tags:
   - Attention
-  - Eye-tracking
   - Autism
-  - spectrum
-  - disorder
-  - Social
-  - behavior
-  - Social
-  - cognition
   - EyeTracking
 category:
   main: 

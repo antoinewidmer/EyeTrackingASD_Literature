@@ -9,16 +9,10 @@ DOI: https://www.doi.org/10.1007/s10803-015-2558-7
 PdfZoteroLink: zotero://select/library/items/LMZEMAJP
 tags:
   - Autism
-  - spectrum
-  - disorder
   - Adulthood
-  - Cognitive
-  - profile
   - Female
   - autistic
   - phenotype
-  - Processing
-  - speed
 category:
   main: 
   sub: 

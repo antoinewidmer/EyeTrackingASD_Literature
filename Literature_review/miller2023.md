@@ -8,15 +8,9 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1016/j.gaitpost.2022.10.015
 PdfZoteroLink: zotero://select/library/items/ACVJ8R2M
 tags:
-  - Virtual
-  - reality
+  - VirtualReality
   - Autism
-  - Postural
-  - control
-  - Movement
-  - Motor
-  - skills
-  - Kinematics
+  - bodytracking
 category:
   main: 
   sub: 

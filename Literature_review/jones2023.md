@@ -9,7 +9,7 @@ DOI: https://www.doi.org/10.1001/jama.2023.13295
 PdfZoteroLink: zotero://select/library/items/9SI69V4K
 tags:
   - EyeTracking
-  - ASD
+  - autism
 category:
   main: 
   sub: 

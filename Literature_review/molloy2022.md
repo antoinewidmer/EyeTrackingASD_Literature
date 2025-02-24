@@ -9,9 +9,6 @@ DOI: https://www.doi.org/10.1017/ipm.2021.73
 PdfZoteroLink: zotero://select/library/items/HVP3UGJN
 tags:
   - autism
-  - Autism
-  - spectrum
-  - disorder
   - biomarkers
   - stratification
 category:

@@ -8,26 +8,14 @@ Paper_type: journalArticle
 DOI: https://www.doi.org/10.1109/TNSRE.2022.3232369
 PdfZoteroLink: zotero://select/library/items/WUIRQIWA
 tags:
-  - Face
-  - recognition
+  - FaceRecognition
   - Autism
-  - eye
-  - tracking
+  - EyeTracking
   - Gaze
-  - tracking
-  - Emotion
-  - recognition
-  - Games
-  - Biomarkers
-  - autism
-  - spectrum
-  - disorder
-  - serious
-  - games
+  - EmotionRecognition
+  - seriousgames
   - Pediatrics
-  - Social
-  - interaction
-  - game
+  - Socialinteraction
   - EyeTracking
 category:
   main: 
