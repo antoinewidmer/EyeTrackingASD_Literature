@@ -4,6 +4,7 @@ relatedApp:
   - earlipoint
 researchgroup:
   - marcus
+keyAspect: early detection of autism
 ---
 
 

@@ -2,6 +2,8 @@
 researchgroup:
   - duke
 relatedApp: SenseToKnow
+company:
+keyAspect:
 ---
 
 ## publications

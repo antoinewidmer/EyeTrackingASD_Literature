@@ -2,6 +2,8 @@
 researchgroup:
   - UCSD
 relatedApp: GetSETReady
+company:
+keyAspect:
 ---
 ## publications
 

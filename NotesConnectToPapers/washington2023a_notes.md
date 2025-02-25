@@ -78,10 +78,10 @@ The review categorizes **behavioral data collection methods** into:
 
 #### Digital Therapeutics
 
-|**Therapy**|**Platform**|**Use Case**|**FDA Approval**|
-|---|---|---|---|
-|**Superpower Glass**|Google Glass|Real-time emotion feedback|Under Evaluation|
-|**EndeavorRx**|Game-based digital therapy|ADHD treatment|**FDA Approved**|
+| **Therapy**          | **Platform**               | **Use Case**               | **FDA Approval** |
+| -------------------- | -------------------------- | -------------------------- | ---------------- |
+| **Superpower Glass** | Google Glass               | Real-time emotion feedback | Under Evaluation |
+| **EndeavorRx**       | Game-based digital therapy | ADHD treatment             | **FDA Approved** |
 
 - **Superpower Glass** uses **AR-based real-time emotion cues** to help ASD children improve social skills.
 - **EndeavorRx** (for ADHD) demonstrates **potential applicability** for ASD interventions.

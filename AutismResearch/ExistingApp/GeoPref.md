@@ -1,9 +1,13 @@
 ---
+company: 
 researchgroup:
   - UCSD
 relatedApp:
   - GeoPref
+keyAspect:
 ---
+
+
 
 ## publications
 
