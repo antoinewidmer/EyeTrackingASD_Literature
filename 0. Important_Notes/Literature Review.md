@@ -27,7 +27,7 @@ dg-home: true
 
 ### Research groups and projects
 
-- [[00 Research groups]]
+- [[Research Groups]]
 - [[01 Research projects]]
 
 

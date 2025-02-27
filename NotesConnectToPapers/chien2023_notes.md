@@ -2,7 +2,7 @@
 citekey: chien2023
 dg-publish: true
 ---
-[[chien2023]]
+[[@chien2023]]
 
 ## 📌 **Summary**
 

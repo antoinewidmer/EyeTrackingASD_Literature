@@ -3,4 +3,4 @@ dg-publish: true
 ---
 
 
-![[black2024]]
+![[@black2024]]

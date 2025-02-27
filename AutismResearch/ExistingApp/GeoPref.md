@@ -4,7 +4,8 @@ researchgroup:
   - UCSD
 relatedApp:
   - GeoPref
-keyAspect:
+keyAspect: 
+dg-publish: true
 ---
 
 

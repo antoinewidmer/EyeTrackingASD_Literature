@@ -15,7 +15,7 @@ EyeMetrics:
 dg-publish: true
 ---
 
-[[forbes2025]]
+[[@forbes2025]]
 
 
 ## 📌 Summary

@@ -75,7 +75,7 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
-
+![[griffin2025_notes]]
 ## Figures
 
 **Imported: 2025-02-10**

@@ -2,7 +2,7 @@
 citekey: bouchouras2025
 ---
 
-[[bouchouras2025]]
+[[@bouchouras2025]]
 
 ## 📖 Summary
 

@@ -16,7 +16,7 @@ AutorToCheck: Dawson
 [Geraldine Dawson | Duke Department of Psychiatry & Behavioral Sciences](https://psychiatry.duke.edu/profile/geraldine-dawson)
 [Sapiro Lab](https://sapirolab.pratt.duke.edu/)
 
-## Publications
+### Publications
 
 ```dataview 
 TABLE 

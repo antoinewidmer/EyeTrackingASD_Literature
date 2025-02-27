@@ -1,9 +1,11 @@
 ---
 researchgroup:
   - duke
-relatedApp: SenseToKnow
-company:
-keyAspect:
+relatedApp:
+  - SenseToKnow
+company: 
+keyAspect: 
+dg-publish: true
 ---
 
 ## publications

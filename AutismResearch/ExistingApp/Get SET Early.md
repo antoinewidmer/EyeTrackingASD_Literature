@@ -1,9 +1,11 @@
 ---
 researchgroup:
   - UCSD
-relatedApp: GetSETReady
-company:
-keyAspect:
+relatedApp:
+  - GetSETReady
+company: 
+keyAspect: 
+dg-publish: true
 ---
 ## publications
 

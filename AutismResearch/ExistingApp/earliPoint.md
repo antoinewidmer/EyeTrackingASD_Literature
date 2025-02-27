@@ -5,6 +5,7 @@ relatedApp:
 researchgroup:
   - marcus
 keyAspect: early detection of autism
+dg-publish: true
 ---
 
 

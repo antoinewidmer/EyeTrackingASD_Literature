@@ -1,10 +1,10 @@
-**NUANCE: Neurodevelopmental Understanding and Advanced Neurocognitive Classification for Enhanced Detection**
+**NUANCE: Neurodevelopmental Understanding and Advanced Neurocognitive Classification for Enhanced Detection and Therapy**
 
 
 ## Problem to solve
 Difficulties to precisely diagnose ASD in different populations
 
-Evolving conceptualisation of autism [[stewart2024]]:
+Evolving conceptualisation of autism [[@stewart2024]]:
  1.  from a ‘narrow’ definition to a ‘wide’ diagnostic criteria; 
  2. from a rare to a relatively common condition, although probably still under-recognised in women and older people; 
  3. a condition diagnosed predominately in males to now being identified in people of all genders; 
@@ -26,19 +26,21 @@ current state-of-art approaches use
 - fixed images with and without faces
 - small movies with human interactions and object in the background
 
+age at autism spectrum disorder diagnosis [[@vanthof2021]]
+
 ### Existing tools
 
 #### SenseToKnow
 
 developped by [[Duke]] research group 
 [Tablet-based AI App Measures Multiple Behavioral Indicators to Screen for Autism | Duke Center for Autism and Brain Development](https://autismcenter.duke.edu/news/tablet-based-ai-app-measures-multiple-behavioral-indicators-screen-autism)
-[[perochon2023a]] 
-review of sensetoknow by [[Yale]]  [[lord2023]]
+[[@perochon2023a]] 
+review of sensetoknow by [[Yale]]  [[@lord2023]]
 
-### GeoPref
+#### GeoPref
 
 developed by UCSF 
-[[moore2018]]
+[[@moore2018]]
 ### Suggested Improvements
 
 |Area of Improvement|Description|
@@ -52,9 +54,11 @@ developed by UCSF
 |**Implementation Studies**|Studies on how primary care providers use and act upon digital screening results are essential.|
 ## Our approach
 ### potential with VR
-[[cerasuolo2025]] The Potential of Virtual Reality to Improve Diagnostic Assessment by Boosting Autism Spectrum Disorder Traits: A Systematic Review
+[[@cerasuolo2025]] The Potential of Virtual Reality to Improve Diagnostic Assessment by Boosting Autism Spectrum Disorder Traits: A Systematic Review
 ![[Images/cerasuolo2025/image-15-x46-y70.png]]
 
 
 
-[[washington2023a]]
+[[@washington2023a]]
+[[@wu2023]]
+

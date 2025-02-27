@@ -8,7 +8,7 @@ dg-publish: true
 
 ## Early detection of autism using digital behavioral phenotyping
 
-[[perochon2023a]]
+[[@perochon2023a]]
 
 ## 📌 Summary
 

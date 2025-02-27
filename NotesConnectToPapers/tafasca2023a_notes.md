@@ -4,7 +4,7 @@ dg-publish: true
 ---
 # The AI4Autism Project: A Multimodal and Interdisciplinary Approach to Autism Diagnosis and Stratification
 
-[[tafasca2023a]]
+[[@tafasca2023a]]
 
 ## Summary
 

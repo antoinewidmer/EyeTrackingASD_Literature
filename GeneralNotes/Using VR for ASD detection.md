@@ -3,7 +3,7 @@ dg-publish: true
 ---
 ## literature review
 
-[[cerasuolo2025]]
+[[@cerasuolo2025]]
 
 
 ## Articles

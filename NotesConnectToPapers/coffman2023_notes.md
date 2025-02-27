@@ -2,7 +2,7 @@
 citekey: coffman2023
 dg-publish: true
 ---
-[[coffman2023]]
+[[@coffman2023]]
 
 ## 📌 Summary
 
@@ -104,7 +104,7 @@ dg-publish: true
 
 ## 🔍 Related Work
 
-- Study builds on prior work by [[chang2021abn]] on **gaze tracking for ASD detection**.
+- Study builds on prior work by [[@chang2021abn]] on **gaze tracking for ASD detection**.
 - Similar to **Perochon et al. (2021, 2022)**, which analyzed **fine motor skills via touchscreen games**.
 - Reinforces findings from **Dawson et al. (2018)** that **autistic toddlers show increased head movements**.
 - Expands **Campbell et al. (2019)** who used **computer vision for social attention analysis**.

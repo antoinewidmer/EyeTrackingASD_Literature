@@ -4,7 +4,7 @@ dg-publish: true
 ---
 ## Zotero note
 
-[[cheng2024]]
+[[@cheng2024]]
 
 ### Appearance-based Gaze Estimation With Deep Learning: A Review and Benchmark
 

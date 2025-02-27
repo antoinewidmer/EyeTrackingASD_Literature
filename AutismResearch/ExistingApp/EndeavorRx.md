@@ -5,4 +5,5 @@ relatedApp:
 researchgroup:
   - neuroscape
 keyAspect: ADHD digital therapy
+dg-publish: true
 ---

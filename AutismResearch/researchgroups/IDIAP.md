@@ -2,7 +2,7 @@
 Institute: IDIAP
 Location: Martigny
 LeadResearcher: Jean-Marc Odobey
-KeyFocus: 
+KeyFocus: Computer Vision
 Website: 
 dg-publish: true
 researchgroup:

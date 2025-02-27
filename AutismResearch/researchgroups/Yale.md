@@ -1,9 +1,9 @@
 ---
-Institute: 
-Location: 
-LeadResearcher: 
+Institute: The Clinical Neuroscience of Autism
+Location: New Haven US
+LeadResearcher: James C. McPartland
 KeyFocus: 
-Website: 
+Website: https://medicine.yale.edu/lab/mcpartland/
 dg-publish: true
 researchgroup:
   - yale

@@ -16,7 +16,7 @@ code_repo:
 dataset: 
 dg-publish: true
 ---
-[[davis2025]]
+[[@davis2025]]
 ## 📌 Summary
 
 - The study investigates early **behavioral characteristics** in toddlers who were later diagnosed with **autism (ASD), ADHD symptoms, or both**.

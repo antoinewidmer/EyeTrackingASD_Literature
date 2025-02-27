@@ -27,7 +27,7 @@ dg-publish: true
 
 # Exploring Eye-tracking based Biomarkers to Assess Cognitive Abilities in Autistic Children: A Feasibility Study
 
-[[zhang2025a]]
+[[@zhang2025a]]
 
 ## 📌 Summary
 

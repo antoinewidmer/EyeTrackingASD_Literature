@@ -1,7 +1,7 @@
 ---
 citekey: stewart2024
 ---
-[[stewart2024]]
+[[@stewart2024]]
 ## 📖 Summary
 
 ### Objective/Purpose

@@ -19,7 +19,7 @@ dg-publish: true
 
 # Unraveling the developmental dynamic of visual exploration of social interactions in autism
 
-[[kojovic2024]]
+[[@kojovic2024]]
 
 ## 📌 Summary
 

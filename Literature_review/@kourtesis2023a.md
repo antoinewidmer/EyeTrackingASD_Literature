@@ -65,8 +65,7 @@ TABLE file.name
 FROM "NotesConnectToPapers" 
 WHERE contains(file.name, this.citekey)
 ```
-
-[[_notes]]
+![[kourtesis2023a_notes]]
 
 ## Figures
 

@@ -1,8 +1,9 @@
 ---
-company: earlitecdx.com
+company: https://www.cognitiveleap.com/
 relatedApp:
   - earlipoint
 researchgroup:
-  - UCS
-keyAspect: early detection of autism
+  - UCSRizzo
+keyAspect: Attention trackers
+dg-publish: true
 ---
