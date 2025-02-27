@@ -1,8 +1,8 @@
 ---
 title: Development of a Novel Telemedicine Tool to Reduce Disparities Related to the Identification of Preschool Children with Autism
 authors: Liliana Wagner, Alison Vehorn, Amy S. Weitlauf, Ambar Munoz Lavanderos, Joshua Wade, Laura Corona, Zachary Warren
-published: 2025
-citekey: wagner2025
+published: 2023
+citekey: wagner2023
 journal: Journal of Autism and Developmental Disorders
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-023-06176-3
@@ -27,8 +27,8 @@ relatedApp:
 
 
 >[!md]
-> **Year**:: 2025   
-> **Citekey**:: wagner2025  
+> **Year**:: 2023   
+> **Citekey**:: wagner2023  
 > **itemType**:: journalArticle  
 > **Journal**:: *Journal of Autism and Developmental Disorders*  
 > **Volume**:: 55  

@@ -1,8 +1,8 @@
 ---
 title: A Randomized Trial of the Accuracy of Novel Telehealth Instruments for the Assessment of Autism in Toddlers
 authors: Laura L. Corona, Liliana Wagner, Madison Hooper, Amy Weitlauf, Tori E. Foster, Jeffrey Hine, Alexandra Miceli, Amy Nicholson, Caitlin Stone, Alison Vehorn, Zachary Warren
-published: 2024
-citekey: corona2024
+published: 2023
+citekey: corona2023
 journal: Journal of Autism and Developmental Disorders
 Paper_type: journalArticle
 DOI: https://www.doi.org/10.1007/s10803-023-05908-9
@@ -27,8 +27,8 @@ relatedApp:
 
 
 >[!md]
-> **Year**:: 2024   
-> **Citekey**:: corona2024  
+> **Year**:: 2023   
+> **Citekey**:: corona2023  
 > **itemType**:: journalArticle  
 > **Journal**:: *Journal of Autism and Developmental Disorders*  
 > **Volume**:: 54  

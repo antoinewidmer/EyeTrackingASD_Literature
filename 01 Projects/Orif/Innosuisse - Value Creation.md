@@ -1,0 +1,63 @@
+## Describe the business targets and the business model.
+
+L’Orif (Organisation Romande d’Intégration et de Formation) emploie environ 500 employés en Suisse Romande et propose depuis plus de 70 ans, des prestations d’intégration professionnelle. Les personnes en formation à l’Orif ont comme point commun des atteintes à la santé qui prétéritent leurs capacités d’apprentissage. Les domaines de formation enseignés à l’Orif comprennent les métiers du bâtiment, de la restauration et du service. Les formations dans les domaines de la chimie-biologie, de la comptabilité, du bureau-commerce, de l’informatique, du dessin machine/dessin bâtiment sont également proposés aux personnes en reconversion professionnelle (adultes).
+
+Durant les années 80 et 90, l’OFAS constate non seulement que le nombre de rentiers AI augmente continuellement mais que la durée des versements de ces rentes également puisque les bénéficiaires sont de plus en plus jeunes. Un seul jeune adulte touchant une rente entière de l’âge de la majorité à l’âge de la retraite coûte en rente pure, plus de 850’000.- A cela s’ajoutent les prestations complémentaires, les subventions pour des institutions sociales, etc. Le déséquilibre financier de l’assurance est programmé. Depuis le milieu des années 2000 et l’introduction de la 5ème révision de la LAI (Loi sur l’Assurance Invalidité), l’OFAS met en œuvre une politique où “la réadaptation prime la rente”, afin de lutter contre ce phénomène et tenter de rassainir la caisse.
+
+Dans les mandats qui sont confiés à l’Orif et avec plus de 450 apprentis en formation initiale, la notion d’économicité prend de plus en plus de place. Les offices payeurs souhaitent pouvoir évaluer rapidement si l’investissement consenti est susceptible de porter des fruits à terme (augmenter le potentiel d’inclusion de l’apprenti et diminuer ainsi le taux de rente). Le temps qui nous est imparti est limité (2 voire 3 ans). Si le présent projet permet d'améliorer l’efficacité de l’accompagnement mis en place, soit en permettant aux apprentis de développer plus de compétences ou de les développer plus vite, nous répondrions ainsi à ces objectifs d’économicité. Dans ce cadre, nous anticipons l’utilisation de notre solution non seulement à l’Orif mais aussi dans les autres centres d’intégration de toute la Suisse, touchant ainsi des milliers d’apprenants.
+
+Dans cet esprit, la combinaison de la Réalité Etendue (XR) et du Machine Learning (ML) a un potentiel réel pour enrichir les activités d’apprentissage et faciliter la transmission de compétences. Pour cela, cette combinaison est pensée non comme un moyen d’enseignement à distance mais comme un moyen d’augmenter les situations d’apprentissage en présence. Notre conviction est que de la sorte, cette combinaison peut améliorer l’efficacité des dispositifs pédagogiques sur plusieurs points, en premier lieu l’attention et la motivation mais aussi l’autonomie, le retour d’information, la consolidation ou encore l’adaptation de l’aide au niveau d’acquisition de l’apprenant. Sur le long terme, nous sommes convaincus que les bénéfices seront plus grands que les coûts engendrés par notre solution :
+
+### Coûts
+- Formation technique des encadrants
+- Modernisation des installations informatiques (réseau, ordinateur, tablette)
+- Développement et mise à jour des applications Bénéfices
+- Amélioration de l’efficacité pédagogique
+- Augmentation du taux de réussite aux formations certifiantes
+- Augmentation de l’employabilité des bénéficiaires
+- Augmentation du niveau de formation de la main d’œuvre pour les entreprises
+- Meilleure intégration économique et sociale des bénéficiaires
+- Augmentation de la compétence professionnelle visée
+- Augmentation de l’autonomie
+
+Dans le domaine de la formation professionnelle spécialisée, il existe une dizaine d’acteurs en Suisse romande qui réalisent les mêmes prestations. Avec 10 sites, l’Orif est néanmoins la seule organisation active dans tous les cantons romands. Elle bénéficie ainsi d’un réseau intercantonal remarquable, d’une émulation interne éprouvée et d’une forte capacité à répondre à des demandes très variées.
+
+## Describe potential customers and how to reach them.
+
+Les bénéficiaires de notre innovation sont d’abord les jeunes apprenants présentant des difficultés d’apprentissage. Ces difficultés peuvent être d’ordre cognitif (mémoire, raisonnement, intelligence (QI), résolution de problème, prise de décision), toucher l’attention (TDA/H), le langage (dyslexie, dysorthographie) ou le calcul (dyscalculie). Elles peuvent également être d’ordre psychique, entrainant des dysfonctionnements affectifs, émotionnels, relationnels ou de la personnalité. Avec 3 sites de formation initiale, c’est environ 450 apprentis par année, âgés de 16 à 20 ans, qui sont concernés dans toute la Suisse romande. Les adultes en reconversion professionnelle (également formés à l’Orif) ayant des troubles acquis suite à une atteinte à la santé, représenteraient une deuxième communauté. C’est plus de 500 bénéficiaires supplémentaires par année.
+
+Ensuite, notre innovation pourrait aider des apprentis neurotypiques, sans troubles avérés mais avec des difficultés réelles, qui suivent un parcours ordinaire dans le cadre de leur apprentissage. Ce sont des milliers d’apprentis concernés.
+
+Enfin, une dernière communauté visée est celle des professionnels encadrant ces populations dans leur formation professionnelle (250 MSP, 35 enseignants, 67 TS). Notre innovation leur offrira un moyen d’accompagnement individualisé.
+
+### Implementation plan
+
+Notre approche de co-création permettra de réaliser le projet avec et pour toutes parties prenantes (jeunes et adultes en formation, les formateurs, la communauté scientifique, les entreprises et les organismes publics comme les offices AI, les associations professionnelles, les centres de formation professionnels) dès le début, gage de crédibilité pour l’aboutissement de celui-ci. La HES-SO Valais-Wallis pourra faire aussi le relais avec les autres acteurs européens. Aux étapes clés, des prototypes et des démonstrations seront organisés avec les autres acteurs pour assurer leur intérêt dans le projet.
+
+### Growth plan
+
+A ce stade, le projet concerne les apprentis des métiers de la construction. Dans un deuxième temps, tous les apprentis de l’Orif devraient bénéficier de la plus-value d’une médiatisation technologique dans leur parcours de formation. Pour garantir le succès de cette implémentation, il est déjà prévu que l’Orif investisse dans les infrastructures informatiques (réseau wifi à très haut débit, couverture wifi maximale, casques VR, tablettes) et dans la formation technique des enseignants, MSP, etc. L’Orif devra enfin assurer la mise à jour des outils. A cet effet, l’Orif est consciente qu’elle doit prévoir des ressources supplémentaires au niveau de l’équipe de support IT pour fournir les services supplémentaires, assurer la maintenance du produit et aussi faire évoluer le produit pour pérenniser l’offre sur le marché. Pour les développements futurs, plusieurs pistes sont envisagées :
+
+Au niveau technologique :
+- Promouvoir l’innovation techno-pédagogique dans d’autres domaines comme le développement des compétences sociales et relationnelles ou l'acquisition des gestes techniques.
+
+Au niveau des partenaires :
+- Proposer nos solutions aux centres de formations professionnelles de la Suisse Romande et toucher tous les apprentis qui suivent un parcours ordinaire.
+- Proposer nos solutions à des institutions sociales œuvrant dans la réinsertion professionnelle et toucher d’autres apprentis à besoins spécifiques.
+- Proposer une traduction allemande et italienne pour toucher tous les apprentis de Suisse.
+
+A long terme, des milliers d’apprentis sont potentiellement concernés. Si les développements technologiques coûtent, la diffusion auprès des acteurs de la formation professionnelle ordinaire ou spécialisée permettrait de diminuer ces coûts (vente de licences, mutualisation, etc.).
+
+Dans ce contexte, l’Orif travaille principalement sur mandat des Offices cantonaux de l’Assurance Invalidité. Depuis quelques années, l’Orif met son savoir-faire et ses compétences à disposition d’autres services de l’Etat comme l’Action sociale, le service de l’emploi ou l’Office de l’asile, dans divers cantons. Les connexions sont déjà en place et à terme, l’ensemble des bénéficiaires de ces différents services pourrait profiter des innovations de l’Orif.
+
+Au niveau handicap, l’Orif est également membre d’Insos Suisse, Insos Genève, Insertion Suisse et diverses représentations cantonales comme Insertion Vaud, Insertion Fribourg, l’ARPIH, etc. A travers ces organisations faîtières, l’Orif pourra diffuser ces innovations dans d’autres institutions sociales dont les missions sont voisines à celles de l’Orif.
+
+Enfin, l’Orif est connecté avec le monde des associations professionnelles qui sont les garantes des différents plans de formation de leur branche. Leur intérêt à voir un centre de formation professionnelle intégrer des dispositifs technologiques à forte valeur pédagogique ajoutée est déjà confirmé par les contacts que nous avons.
+
+## Does the planned project have a particular energy relevance, ecological or social impact to be mentioned?
+
+L’objectif du projet est de développer un processus pédagogique s'adaptant aux difficultés de chaque apprenant. Basé sur la littérature scientifique, ce processus a le potentiel d’améliorer l’engagement des apprenants et la qualité de la formation au moyen de la technologie, en adaptant la formation aux difficultés d’apprentissage d’une population présentant des difficultés cognitives et/ou sociales. En améliorant l’acquisition des compétence professionnelle, l’objectif est, in fine, d’améliorer l’inclusion dans le marché de l’emploi et donc dans la société de ces jeunes. En effet, le travail représente une activité importante en termes de participation sociale (Lysaght et al., 2012, cités par Salamin, 2020), ainsi qu’un droit selon la Convention de l’ONU relative aux droits des personnes handicapées ratifiée par la Suisse en 2014. Or, les troubles cognitifs comme l’inattention, la difficulté à rester sur une tâche et les troubles du comportement sont autant d’obstacles à l’employabilité. L’utilisation de la technologie dans ce projet devrait ainsi permettre d’adapter l’enseignement de compétences professionnelles et d’améliorer le taux de rendement en travaillant non seulement une compétence liée au métier (hard skill) mais également d’autres composantes comme l’autonomie, la qualité et la vitesse de travail, la planification et les stratégies de résolution de problèmes dans la réalisation d’une tâche.
+
+En utilisant la technologie au bénéfice de la formation, il est attendu que les apprentis présentant des troubles cognitifs et/ou sociaux aient une meilleure acquisition des composantes professionnelles et soient mieux formés pour intégrer le marché du travail, pouvant diminuer ainsi le taux d’invalidité et dès lors le taux de rente AI. Il s’agit ainsi de contribuer à une meilleure inclusion socio-professionnelle des jeunes atteints dans leur santé physique, mentale et/ou psychique, pouvant amener à une diminution du nombre de rentes AI. Ce projet permet ainsi de réduire les inégalités en termes d’accès à la formation et au premier marché du travail, impactant également la qualité de vie de ces jeunes.
+
+Les bénéficiaires de l’Orif sont des personnes atteintes dans leur santé qui présentent des difficultés cognitives, psychiques et/ou sociales entravant leurs capacités d’apprentissage et diminuant leur potentielle employabilité et intégration sur le marché du travail. Les altérations sur le plan de leur fonctionnement et les restrictions socio-professionnelles que ces personnes peuvent ainsi subir les placent en situation de handicap. En ratifiant la Convention relative aux droits des personnes handicapée en 2014, la Suisse s’est « engagée à garantir aux personnes en situation de handicap la pleine participation autonome à une société inclusive, incluant notamment l’accès sans barrières aux TIC » (Salamin, 2020, p.35). L’accessibilités aux TIC est inscrite également dans la loi sur l’égalité des personnes handicapées (LHand) qui stipule l’interdiction de toute discrimination, dont l’accessibilité aux TIC. Les TIC occupent une place de plus en plus importante dans notre société. La Suisse fait d’ailleurs partie des pays les plus connectés (Office fédéral de la statistique (OFS), 2019, in Salamin, 2020), montrant la numérisation croissante de notre société, autant dans le privé que dans le travail, et l’importance de s’adapter à cette numérisation.
