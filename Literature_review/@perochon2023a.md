@@ -70,7 +70,7 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
-
+![[perochon2023a_notes]]
 ## Figures
 
 **Imported: 2025-02-10**

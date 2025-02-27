@@ -1,15 +1,15 @@
 ---
-Institute: 
-Location: 
-LeadResearcher: 
+Institute: Gillberg Neuropsychiatry Centre
+Location: University of Gothenburg
+LeadResearcher: Christopher Gillberg
 KeyFocus:
   - Autism
   - Adult
-Website: 
+Website: https://www.gu.se/en/gnc
 dg-publish: true
 researchgroup:
   - Gillbert
-AutorToCheck:
+AutorToCheck: Gillbert
 ---
 ## Publications
 

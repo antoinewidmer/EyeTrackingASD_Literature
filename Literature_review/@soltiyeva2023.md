@@ -53,7 +53,6 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
-[[_notes]]
 
 ## Figures
 

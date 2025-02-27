@@ -72,8 +72,6 @@ FROM "NotesConnectToPapers"
 WHERE contains(file.name, this.citekey)
 ```
 
-[[_notes]]
-
 ## Figures
 
 **Imported: 2025-02-14**
