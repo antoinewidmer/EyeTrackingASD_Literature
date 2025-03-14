@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"results_findings","type":"text","text":"📊 Results & Findings\n- Female ASD diagnosis lags due to symptom masking.\n- AI models trained on male-dominated datasets.\n- MR shows promise but lacks large-scale validation.","x":100,"y":500,"width":400,"height":100},
+		{"id":"key_arguments","type":"text","text":"📢 Key Arguments & Themes\n- Need for gender-balanced datasets.\n- Role of multimodal AI models.\n- Policy implications for ASD screening.","x":500,"y":500,"width":350,"height":100},
+		{"id":"central_topic","type":"text","text":"📌 Central Topic: Gender Bias in ASD Detection","x":350,"y":40,"width":300,"height":100},
+		{"id":"papers_sources","type":"text","text":"📚 Papers & Sources\n- Paper 1: 'Study on Gender Bias in ASD' (2023)\n- Paper 2: 'Using Computer Vision for ASD Detection' (2022)\n- Paper 3: 'Mixed Reality for ASD Therapy' (2021)","x":20,"y":200,"width":400,"height":240},
+		{"id":"methodology_comparison","type":"text","text":"🔍 Methodology Comparison\n- Eye-Tracking\n- AI-based Screening\n- Mixed Reality (MR) Tools","x":500,"y":220,"width":350,"height":180}
+	],
+	"edges":[
+		{"fromNode":"results_findings","fromSide":"right","toNode":"key_arguments","toSide":"left"},
+		{"id":"2c04a2cfe2d30620","fromNode":"central_topic","fromSide":"bottom","toNode":"methodology_comparison","toSide":"top"},
+		{"id":"63b8001044941f63","fromNode":"methodology_comparison","fromSide":"left","toNode":"papers_sources","toSide":"right"},
+		{"id":"4864f83bb6c2a732","fromNode":"methodology_comparison","fromSide":"bottom","toNode":"key_arguments","toSide":"top"}
+	]
+}
