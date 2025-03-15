@@ -7,7 +7,7 @@ dg-home: true
 
 - [[Eye Movements]]
 - [[General Eye Movements]]
-- [[Eye tracking systems]]
+- [[Eye tracking - systems]]
 - [[Studied Eye movements]]
 - [[Articles using Eye-Tracking in ASD Detection]]
 
