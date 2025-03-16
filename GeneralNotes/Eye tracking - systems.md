@@ -10,7 +10,11 @@ https://link.springer.com/article/10.3758/s13428-024-02587-x
 
 https://link.springer.com/article/10.3758/s13428-024-02529-7
 
+https://link.springer.com/article/10.3758/s13428-024-02473-6
+
 https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-024-09524-1
+
+While our current work has been successful in ensuring that young children with autism and increased likelihood of later autism diagnosis are comfortable with the head-mounted eye-tracker and that the majority of children complete the task, the data presented here highlight that not all of our participants were able to complete the head-mounted eye-tracking task despite multiple attempts and application of the strategies. In general and not surprisingly, we found that our older participants completed the study in fewer visits, engaged in less challenging behaviors, tolerated the head-mounted eye-tracking gear more easily, and required fewer reinforcers, breaks, and supports to be used to maintain attention and tolerance. This may be because older participants had more experiences in other structured
 
 
 
@@ -30,4 +34,4 @@ https://jneurodevdisorders.biomedcentral.com/articles/10.1186/s11689-024-09524-1
 | Eye Tracking Glasses 2.0 from SMI | Used in real world conditions13                                                                                                                                                                                 |            |     |
 | Off-the-shelf camera              | Allows for a wide range of head movements14.14                                                                                                                                                                  |            |     |
 | positive science                  | https://dl.acm.org/doi/pdf/10.1145/3719009                                                                                                                                                                      | .          |     |
-|                                   |                                                                                                                                                                                                                 |            |     |
+|                                   | https://www.cell.com/current-biology/fulltext/S0960-9822(22)00662-5?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0960982222006625%3Fshowall%3Dtrue                                      |            |     |
