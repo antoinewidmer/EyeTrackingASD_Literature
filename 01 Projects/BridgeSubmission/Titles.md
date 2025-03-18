@@ -2,4 +2,4 @@
 
 **MOSAIC: Democratizing and Refining Neurodevelopmental Disorder Detection Through Multimodal Systematic Assessment**
 
-**NUANCE: Neurodevelopmental Understanding and Advanced Neurocognitive Classification for Enhanced Detection**
+**NUANCED: Neurodevelopmental Understanding and Advanced Neurocognitive Classification for Enhanced Detection**

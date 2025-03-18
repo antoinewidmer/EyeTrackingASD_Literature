@@ -1,0 +1,5 @@
+Classification
+
+The FDA regulates medical devices sold in the US to assure their safety and effectiveness. The FDA’s Center for Devices and Radiological Health (CDRH) is responsible for regulating firms who develop specifications, manufacture, repackage, relabel, and/or import medical devices sold in the US. The pathway for regulatory approval in the US is defined based on device classification and the availability of the predicate device. The device classification depends on the intended use, indications for use and the risk the device poses to the patient and/or the users. Requirements for Medical Devices are described in 21 Code of Federal Regulations (CFR) Part 800.
+
+All medical device manufacturers and distributors must register their organization with US FDA to sell their devices. The foreign manufacturers must appoint a US Agent as well as define an initial importer
