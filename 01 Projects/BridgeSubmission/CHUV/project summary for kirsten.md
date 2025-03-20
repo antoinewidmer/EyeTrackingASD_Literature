@@ -1,0 +1,5 @@
+
+
+the proposal for the SNSF bridge call for project is to develop a novel eye-tracking system with higher temporal and spatial resolution to allow a finer detection of neurodevelopmental disorders. the clinical use-case would be to differentiate ADHD from ASD before ADHD is clinically detected. the added value of the project would be to have an early detection of ADHD to set the appropriate medical care.
+
+Our project aims to develop a novel eye-tracking system with enhanced temporal and spatial resolution to improve the detection of neurodevelopmental disorders. The clinical use-case focuses on differentiating ADHD from ASD before ADHD is clinically diagnosed. The key added value of our approach is enabling earlier detection of ADHD, allowing for timely and appropriate medical intervention.
